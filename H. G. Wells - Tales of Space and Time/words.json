@@ -1,7 +1,31 @@
 {
+    "abstrusest" :  [
+        {
+            "Shaw": "𐑨𐑚𐑕𐑑𐑮𐑵𐑕𐑧𐑕𐑑",
+            "tag": "0"
+        }
+    ],
+    "agriculturist" :  [
+        {
+            "Shaw": "𐑨𐑜𐑮𐑦𐑒𐑳𐑤𐑗𐑼𐑦𐑕𐑑",
+            "tag": "0"
+        }
+    ],
+    "albemarle" :  [
+        {
+            "Shaw": "𐑨𐑤𐑚𐑩𐑥𐑸𐑤",
+            "tag": "0"
+        }
+    ],
     "aldebaran" :  [
         {
             "Shaw": "𐑨𐑤𐑛𐑧𐑚𐑩𐑮𐑩𐑯",
+            "tag": "0"
+        }
+    ],
+    "andoo" :  [
+        {
+            "Shaw": "𐑨𐑯𐑛𐑵",
             "tag": "0"
         }
     ],
@@ -11,9 +35,51 @@
             "tag": "0"
         }
     ],
+    "annoyingly" :  [
+        {
+            "Shaw": "𐑩𐑯𐑶𐑦𐑙𐑤𐑦",
+            "tag": "0"
+        }
+    ],
+    "argyll" :  [
+        {
+            "Shaw": "𐑸𐑜𐑲𐑤",
+            "tag": "0"
+        }
+    ],
     "athleticism": [
         {
             "Shaw": "𐑨𐑔𐑤𐑧𐑑𐑩𐑕𐑦𐑟𐑩𐑥",
+            "tag": "0"
+        }
+    ],
+    "arst" :  [
+        {
+            "Shaw": "𐑭𐑕𐑒𐑑",
+            "tag": "0"
+        }
+    ],
+    "aw" :  [
+        {
+            "Shaw": "𐑷",
+            "tag": "0"
+        }
+    ],
+    "awaked" :  [
+        {
+            "Shaw": "𐑩𐑢𐑱𐑒𐑑",
+            "tag": "0"
+        }
+    ],
+    "baayah" :  [
+        {
+            "Shaw": "𐑚𐑭𐑘𐑩",
+            "tag": "0"
+        }
+    ],
+    "baffin" :  [
+        {
+            "Shaw": "𐑚𐑨𐑓𐑩𐑯",
             "tag": "0"
         }
     ],
@@ -29,9 +95,57 @@
             "tag": "0"
         }
     ],
+    "beanfeasters" :  [
+        {
+            "Shaw": "𐑚𐑰𐑯𐑓𐑰𐑕𐑑𐑼𐑟",
+            "tag": "0"
+        }
+    ],
+    "beechwood" :  [
+        {
+            "Shaw": "𐑚𐑰𐑗𐑢𐑫𐑛",
+            "tag": "0"
+        }
+    ],
+    "beechwoods" :  [
+        {
+            "Shaw": "𐑚𐑰𐑗𐑢𐑫𐑛𐑟",
+            "tag": "0"
+        }
+    ],
     "bedabbled" :  [
         {
             "Shaw": "𐑚𐑦𐑛𐑨𐑚𐑩𐑤𐑛",
+            "tag": "0"
+        }
+    ],
+    "bindon" :  [
+        {
+            "Shaw": "𐑚𐑦𐑯𐑩𐑯",
+            "tag": "0"
+        }
+    ],
+    "bindons" :  [
+        {
+            "Shaw": "𐑚𐑦𐑯𐑩𐑯𐑟",
+            "tag": "0"
+        }
+    ],
+    "bitterer" :  [
+        {
+            "Shaw": "𐑚𐑦𐑑𐑼𐑼",
+            "tag": "0"
+        }
+    ],
+    "blarsted" :  [
+        {
+            "Shaw": "𐑚𐑤𐑸𐑕𐑑𐑩𐑛",
+            "tag": "0"
+        }
+    ],
+    "blowitz" :  [
+        {
+            "Shaw": "𐑚𐑤𐑴𐑦𐑑𐑕",
             "tag": "0"
         }
     ],
@@ -41,9 +155,45 @@
             "tag": "0"
         }
     ],
+    "boadicea" :  [
+        {
+            "Shaw": "𐑚𐑴𐑛𐑩𐑕𐑰𐑩",
+            "tag": "0"
+        }
+    ],
+    "boloo" :  [
+        {
+            "Shaw": "𐑚𐑩𐑤𐑵",
+            "tag": "0"
+        }
+    ],
     "bosso-kuni" :  [
         {
             "Shaw": " 𐑚𐑪𐑯𐑴-𐑒𐑵𐑯𐑦",
+            "tag": "0"
+        }
+    ],
+    "brasted" :  [
+        {
+            "Shaw": "𐑚𐑮𐑭𐑕𐑑𐑩𐑛 ",
+            "tag": "0"
+        }
+    ],
+    "bruggles" :  [
+        {
+            "Shaw": "𐑚𐑮𐑳𐑜𐑩𐑤𐑟",
+            "tag": "0"
+        }
+    ],
+    "buddha" :  [
+        {
+            "Shaw": "𐑚𐑫𐑛𐑩",
+            "tag": "0"
+        }
+    ],
+    "burmah" :  [
+        {
+            "Shaw": "𐑚𐑻𐑥𐑩",
             "tag": "0"
         }
     ],
@@ -623,12 +773,6 @@
             "tag": "0"
         }
     ],
-    "burmah" :  [
-        {
-            "Shaw": "𐑚𐑻𐑥𐑩",
-            "tag": "0"
-        }
-    ],
     "hindostan" :  [
         {
             "Shaw": "𐑣𐑦𐑯𐑛𐑫𐑕𐑑𐑭𐑯",
@@ -638,12 +782,6 @@
     "indus" :  [
         {
             "Shaw": "𐑦𐑯𐑛𐑩𐑕",
-            "tag": "0"
-        }
-    ],
-    "baffin" :  [
-        {
-            "Shaw": "𐑚𐑨𐑓𐑩𐑯",
             "tag": "0"
         }
     ],
@@ -680,18 +818,6 @@
     "ranunculus" :  [
         {
             "Shaw": "𐑮𐑩𐑯𐑳𐑙𐑒𐑘𐑩𐑤𐑩𐑕",
-            "tag": "0"
-        }
-    ],
-    "boloo" :  [
-        {
-            "Shaw": "𐑚𐑩𐑤𐑵",
-            "tag": "0"
-        }
-    ],
-    "baayah" :  [
-        {
-            "Shaw": "𐑚𐑭𐑘𐑩",
             "tag": "0"
         }
     ],
@@ -761,33 +887,9 @@
             "tag": "0"
         }
     ],
-    "andoo" :  [
-        {
-            "Shaw": "𐑨𐑯𐑛𐑵",
-            "tag": "0"
-        }
-    ],
     "ya" :  [
         {
             "Shaw": "𐑘𐑭",
-            "tag": "0"
-        }
-    ],
-    "beanfeasters" :  [
-        {
-            "Shaw": "𐑚𐑰𐑯𐑓𐑰𐑕𐑑𐑼𐑟",
-            "tag": "0"
-        }
-    ],
-    "beechwoods" :  [
-        {
-            "Shaw": "𐑚𐑰𐑗𐑢𐑫𐑛𐑟",
-            "tag": "0"
-        }
-    ],
-    "beechwood" :  [
-        {
-            "Shaw": "𐑚𐑰𐑗𐑢𐑫𐑛",
             "tag": "0"
         }
     ],
@@ -887,21 +989,9 @@
             "tag": "0"
         }
     ],
-    "blowitz" :  [
-        {
-            "Shaw": "𐑚𐑤𐑴𐑦𐑑𐑕",
-            "tag": "0"
-        }
-    ],
     "phonographic" :  [
         {
             "Shaw": "𐑓𐑴𐑯𐑩𐑜𐑮𐑨𐑓𐑦𐑒",
-            "tag": "0"
-        }
-    ],
-    "bindon" :  [
-        {
-            "Shaw": "𐑚𐑦𐑯𐑩𐑯",
             "tag": "0"
         }
     ],
@@ -944,12 +1034,6 @@
     "straightly" :  [
         {
             "Shaw": "𐑕𐑑𐑮𐑱𐑑𐑤𐑦",
-            "tag": "0"
-        }
-    ],
-    "agriculturist" :  [
-        {
-            "Shaw": "𐑨𐑜𐑮𐑦𐑒𐑳𐑤𐑗𐑼𐑦𐑕𐑑",
             "tag": "0"
         }
     ],
@@ -1049,12 +1133,6 @@
             "tag": "0"
         }
     ],
-    "boadicea" :  [
-        {
-            "Shaw": "𐑚𐑴𐑛𐑩𐑕𐑰𐑩",
-            "tag": "0"
-        }
-    ],
     "suzannah" :  [
         {
             "Shaw": "𐑕𐑵𐑟𐑨𐑯𐑩",
@@ -1115,12 +1193,6 @@
             "tag": "0"
         }
     ],
-    "bruggles" :  [
-        {
-            "Shaw": "𐑚𐑮𐑳𐑜𐑩𐑤𐑟",
-            "tag": "0"
-        }
-    ],
     "socrates" :  [
         {
             "Shaw": "𐑕𐑪𐑒𐑮𐑩𐑑𐑰𐑟",
@@ -1175,21 +1247,9 @@
             "tag": "0"
         }
     ],
-    "buddha" :  [
-        {
-            "Shaw": "𐑚𐑫𐑛𐑩",
-            "tag": "0"
-        }
-    ],
     "interspace" :  [
         {
             "Shaw": "𐑦𐑯𐑑𐑻𐑕𐑐𐑱𐑕",
-            "tag": "0"
-        }
-    ],
-    "bitterer" :  [
-        {
-            "Shaw": "𐑚𐑦𐑑𐑼𐑼",
             "tag": "0"
         }
     ],
@@ -1247,18 +1307,6 @@
             "tag": "0"
         }
     ],
-    "aw" :  [
-        {
-            "Shaw": "aw",
-            "tag": "0"
-        }
-    ],
-    "blarsted" :  [
-        {
-            "Shaw": "blarsted",
-            "tag": "0"
-        }
-    ],
     "whitey" :  [
         {
             "Shaw": "Whitey",
@@ -1268,12 +1316,6 @@
     "ouldin" :  [
         {
             "Shaw": "Ouldin",
-            "tag": "0"
-        }
-    ],
-    "brasted" :  [
-        {
-            "Shaw": "brasted",
             "tag": "0"
         }
     ],
@@ -1295,27 +1337,9 @@
             "tag": "0"
         }
     ],
-    "arst" :  [
-        {
-            "Shaw": "arst",
-            "tag": "0"
-        }
-    ],
     "tastin" :  [
         {
             "Shaw": "Tastin",
-            "tag": "0"
-        }
-    ],
-    "awaked" :  [
-        {
-            "Shaw": "awaked",
-            "tag": "0"
-        }
-    ],
-    "bindow" :  [
-        {
-            "Shaw": "BINDON",
             "tag": "0"
         }
     ],
@@ -1391,21 +1415,9 @@
             "tag": "0"
         }
     ],
-    "bindons" :  [
-        {
-            "Shaw": "Bindons",
-            "tag": "0"
-        }
-    ],
     "tristan" :  [
         {
             "Shaw": "Tristan",
-            "tag": "0"
-        }
-    ],
-    "annoyingly" :  [
-        {
-            "Shaw": "annoyingly",
             "tag": "0"
         }
     ],
@@ -1496,24 +1508,6 @@
     "immering" :  [
         {
             "Shaw": "Immering",
-            "tag": "0"
-        }
-    ],
-    "abstrusest" :  [
-        {
-            "Shaw": "abstrusest",
-            "tag": "0"
-        }
-    ],
-    "albemarle" :  [
-        {
-            "Shaw": "Albemarle",
-            "tag": "0"
-        }
-    ],
-    "argyll" :  [
-        {
-            "Shaw": "Argyll",
             "tag": "0"
         }
     ],
