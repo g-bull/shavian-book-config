@@ -377,9 +377,45 @@
             "tag": "0"
         }
     ],
+    "eadham" :  [
+        {
+            "Shaw": "𐑰𐑛𐑩𐑥",
+            "tag": "0"
+        }
+    ],
+    "eadhamite" :  [
+        {
+            "Shaw": "𐑰𐑛𐑩𐑥𐑲𐑑",
+            "tag": "0"
+        }
+    ],
+    "ein" :  [
+        {
+            "Shaw": "𐑰𐑲𐑧𐑯",
+            "tag": "0"
+        }
+    ],
+    "ejaculatory" :  [
+        {
+            "Shaw": "𐑦𐑡𐑨𐑒𐑿𐑤𐑩𐑑𐑼𐑦",
+            "tag": "0"
+        }
+    ],
+    "elizebeth" :  [
+        {
+            "Shaw": "𐑦𐑤𐑦𐑟𐑩𐑚𐑩𐑔",
+            "tag": "0"
+        }
+    ],
     "en" :  [
         {
             "Shaw": "𐑩𐑯",
+            "tag": "0"
+        }
+    ],
+    "enders" :  [
+        {
+            "Shaw": "𐑧𐑯𐑛𐑼𐑟",
             "tag": "0"
         }
     ],
@@ -392,6 +428,18 @@
     "etruscans": [
         {
             "Shaw": "𐑦𐑑𐑮𐑳𐑕𐑒𐑩𐑯𐑟",
+            "tag": "0"
+        }
+    ],
+    "ets" :  [
+        {
+            "Shaw": "𐑰𐑑𐑰𐑟",
+            "tag": "0"
+        }
+    ],
+    "eudena" :  [
+        {
+            "Shaw": "𐑿𐑛𐑦𐑯𐑩",
             "tag": "0"
         }
     ],
@@ -461,9 +509,21 @@
             "tag": "0"
         }
     ],
+    "goer" :  [
+        {
+            "Shaw": "𐑒𐑴𐑼",
+            "tag": "0"
+        }
+    ],
     "goethe" :  [
         {
             "Shaw": "𐑜𐑻︀𐑑𐑩",
+            "tag": "0"
+        }
+    ],
+    "gomshott" :  [
+        {
+            "Shaw": "𐑜𐑪𐑥𐑖𐑪𐑑",
             "tag": "0"
         }
     ],
@@ -953,12 +1013,6 @@
             "tag": "0"
         }
     ],
-    "eudena" :  [
-        {
-            "Shaw": "𐑿𐑛𐑦𐑯𐑩",
-            "tag": "0"
-        }
-    ],
     "sideway" :  [
         {
             "Shaw": "𐑕𐑲𐑛𐑢𐑱",
@@ -1103,12 +1157,6 @@
             "tag": "0"
         }
     ],
-    "elizebeth" :  [
-        {
-            "Shaw": "𐑦𐑤𐑦𐑟𐑩𐑚𐑩𐑔",
-            "tag": "0"
-        }
-    ],
     "pimlico" :  [
         {
             "Shaw": "𐑐𐑦𐑥𐑤𐑦𐑒𐑴",
@@ -1139,27 +1187,9 @@
             "tag": "0"
         }
     ],
-    "eadhamite" :  [
-        {
-            "Shaw": "𐑰𐑛𐑩𐑥𐑲𐑑",
-            "tag": "0"
-        }
-    ],
-    "eadham" :  [
-        {
-            "Shaw": "𐑰𐑛𐑩𐑥",
-            "tag": "0"
-        }
-    ],
     "windowed" :  [
         {
             "Shaw": "𐑢𐑦𐑯𐑛𐑴𐑛",
-            "tag": "0"
-        }
-    ],
-    "enders" :  [
-        {
-            "Shaw": "𐑧𐑯𐑛𐑼𐑟",
             "tag": "0"
         }
     ],
@@ -1232,12 +1262,6 @@
     "suzanna" :  [
         {
             "Shaw": "𐑕𐑵𐑟𐑨𐑯𐑩",
-            "tag": "0"
-        }
-    ],
-    "ets" :  [
-        {
-            "Shaw": "𐑰𐑑𐑰𐑟",
             "tag": "0"
         }
     ],
@@ -1475,12 +1499,6 @@
             "tag": "0"
         }
     ],
-    "gomshott" :  [
-        {
-            "Shaw": "Gomshott",
-            "tag": "0"
-        }
-    ],
     "maybridge" :  [
         {
             "Shaw": "Maybridge",
@@ -1523,27 +1541,9 @@
             "tag": "0"
         }
     ],
-    "goer" :  [
-        {
-            "Shaw": "goer",
-            "tag": "0"
-        }
-    ],
     "immering" :  [
         {
             "Shaw": "Immering",
-            "tag": "0"
-        }
-    ],
-    "ejaculatory" :  [
-        {
-            "Shaw": "ejaculatory",
-            "tag": "0"
-        }
-    ],
-    "ein" :  [
-        {
-            "Shaw": "EIN",
             "tag": "0"
         }
     ],
