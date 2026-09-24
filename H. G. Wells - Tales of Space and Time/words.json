@@ -611,6 +611,54 @@
             "tag": "0"
         }
     ],
+    "immering" :  [
+        {
+            "Shaw": "𐑦𐑥𐑼𐑦𐑙",
+            "tag": "0"
+        }
+    ],
+    "incapables": [
+        {
+            "Shaw": "𐑦𐑯𐑒𐑱𐑐𐑩𐑚𐑩𐑤𐑟",
+            "tag": "0"
+        }
+    ],
+    "incontinently" :  [
+        {
+            "Shaw": "𐑦𐑯𐑒𐑪𐑯𐑑𐑦𐑯𐑩𐑯𐑑𐑤𐑦",
+            "tag": "0"
+        }
+    ],
+    "indus" :  [
+        {
+            "Shaw": "𐑦𐑯𐑛𐑩𐑕",
+            "tag": "0"
+        }
+    ],
+    "interspace" :  [
+        {
+            "Shaw": "𐑦𐑯𐑑𐑻𐑕𐑐𐑱𐑕",
+            "tag": "0"
+        }
+    ],
+    "investigatory" :  [
+        {
+            "Shaw": "𐑦𐑯𐑝𐑧𐑕𐑑𐑦𐑜𐑩𐑑𐑼𐑦",
+            "tag": "0"
+        }
+    ],
+    "irm" :  [
+        {
+            "Shaw": "𐑻𐑥",
+            "tag": "0"
+        }
+    ],
+    "isis" :  [
+        {
+            "Shaw": "𐑲𐑟𐑦𐑕",
+            "tag": "0"
+        }
+    ],
     "jacoby" :  [
         {
             "Shaw": "𐑡𐑱𐑒𐑩𐑚𐑦",
@@ -626,12 +674,6 @@
     "judicially" :  [
         {
             "Shaw": "𐑡𐑵𐑛𐑦𐑖𐑩𐑤𐑦",
-            "tag": "0"
-        }
-    ],
-    "incapables": [
-        {
-            "Shaw": "𐑦𐑯𐑒𐑱𐑐𐑩𐑚𐑩𐑤𐑟",
             "tag": "0"
         }
     ],
@@ -983,12 +1025,6 @@
             "tag": "0"
         }
     ],
-    "incontinently" :  [
-        {
-            "Shaw": "𐑦𐑯𐑒𐑪𐑯𐑑𐑦𐑯𐑩𐑯𐑑𐑤𐑦",
-            "tag": "0"
-        }
-    ],
     "zenithward" :  [
         {
             "Shaw": "𐑟𐑧𐑯𐑦𐑔𐑢𐑼𐑛",
@@ -1010,12 +1046,6 @@
     "thibet" :  [
         {
             "Shaw": "𐑑𐑦𐑚𐑧𐑑",
-            "tag": "0"
-        }
-    ],
-    "indus" :  [
-        {
-            "Shaw": "𐑦𐑯𐑛𐑩𐑕",
             "tag": "0"
         }
     ],
@@ -1124,12 +1154,6 @@
     "whup" :  [
         {
             "Shaw": "𐑢𐑳𐑐",
-            "tag": "0"
-        }
-    ],
-    "irm" :  [
-        {
-            "Shaw": "𐑻𐑥",
             "tag": "0"
         }
     ],
@@ -1373,12 +1397,6 @@
             "tag": "0"
         }
     ],
-    "interspace" :  [
-        {
-            "Shaw": "𐑦𐑯𐑑𐑻𐑕𐑐𐑱𐑕",
-            "tag": "0"
-        }
-    ],
     "jago" :  [
         {
             "Shaw": "𐑡𐑱𐑜𐑴",
@@ -1400,12 +1418,6 @@
     "spiles" :  [
         {
             "Shaw": "spiles",
-            "tag": "0"
-        }
-    ],
-    "investigatory" :  [
-        {
-            "Shaw": "investigatory",
             "tag": "0"
         }
     ],
@@ -1466,12 +1478,6 @@
     "persistency" :  [
         {
             "Shaw": "persistency",
-            "tag": "0"
-        }
-    ],
-    "isis" :  [
-        {
-            "Shaw": "Isis",
             "tag": "0"
         }
     ],
@@ -1550,18 +1556,6 @@
     "tannhauser" :  [
         {
             "Shaw": "Tannhauser",
-            "tag": "0"
-        }
-    ],
-    "immering" :  [
-        {
-            "Shaw": "Immering",
-            "tag": "0"
-        }
-    ],
-    "incontinently" :  [
-        {
-            "Shaw": "Incontinently",
             "tag": "0"
         }
     ],
