@@ -695,9 +695,63 @@
             "tag": "0"
         }
     ],
+    "keerless" :  [
+        {
+            "Shaw": "𐑒𐑺𐑤𐑩𐑕",
+            "tag": "0"
+        }
+    ],
+    "kickin" :  [
+        {
+            "Shaw": "𐑒𐑦𐑒𐑦𐑯",
+            "tag": "0"
+        }
+    ],
+    "kinematograph" :  [
+        {
+            "Shaw": "𐑒𐑦𐑯𐑦𐑥𐑨𐑑𐑩𐑜𐑮𐑨𐑓",
+            "tag": "0"
+        }
+    ],
+    "kinematographs" :  [
+        {
+            "Shaw": "𐑒𐑦𐑯𐑦𐑥𐑨𐑑𐑩𐑜𐑮𐑨𐑓𐑕",
+            "tag": "0"
+        }
+    ],
+    "knobbed" :  [
+        {
+            "Shaw": "𐑯𐑪𐑚𐑛",
+            "tag": "0"
+        }
+    ],
+    "knobby" :  [
+        {
+            "Shaw": "𐑯𐑪𐑚𐑦",
+            "tag": "0"
+        }
+    ],
+    "leith" :  [
+        {
+            "Shaw": "𐑤𐑰𐑔",
+            "tag": "0"
+        }
+    ],
+    "lemme" :  [
+        {
+            "Shaw": "Lemme",
+            "tag": "0"
+        }
+    ],
     "lichenous" :  [
         {
             "Shaw": "𐑤𐑲𐑒𐑩𐑯𐑩𐑕",
+            "tag": "0"
+        }
+    ],
+    "lincrusta" :  [
+        {
+            "Shaw": "𐑤𐑦𐑯𐑒𐑮𐑳𐑕𐑑𐑩",
             "tag": "0"
         }
     ],
@@ -707,9 +761,81 @@
             "tag": "0"
         }
     ],
+    "looky" :  [
+        {
+            "Shaw": "𐑤𐑫𐑒𐑦",
+            "tag": "0"
+        }
+    ],
+    "lullaborough" :  [
+        {
+            "Shaw": "𐑤ʌ𐑤𐑩𐑚𐑼𐑩",
+            "tag": "0"
+        }
+    ],
     "luminousness": [
         {
             "Shaw": "𐑤𐑵𐑥𐑦𐑯𐑩𐑕𐑯𐑩𐑕",
+            "tag": "0"
+        }
+    ],
+    "machinate" :  [
+        {
+            "Shaw": "𐑥𐑨𐑖𐑦𐑯𐑱𐑑",
+            "tag": "0"
+        }
+    ],
+    "mahomet" :  [
+        {
+            "Shaw": "𐑥𐑩𐑣𐑪𐑥𐑦𐑑",
+            "tag": "0"
+        }
+    ],
+    "maximae" :  [
+        {
+            "Shaw": "𐑥𐑨𐑒𐑕𐑦𐑥𐑰",
+            "tag": "0"
+        }
+    ],
+    "maybridge" :  [
+        {
+            "Shaw": "𐑥𐑱𐑚𐑮𐑦𐑡",
+            "tag": "0"
+        }
+    ],
+    "maydig" :  [
+        {
+            "Shaw": "𐑥𐑱𐑛𐑦𐑜",
+            "tag": "0"
+        }
+    ],
+    "mcwhirter" :  [
+        {
+            "Shaw": "𐑥𐑩𐑒𐑢𐑻𐑑𐑼",
+            "tag": "0"
+        }
+    ],
+    "mijitly" :  [
+        {
+            "Shaw": "𐑥𐑲𐑑𐑦𐑤𐑦",
+            "tag": "0"
+        }
+    ],
+    "minchin" :  [
+        {
+            "Shaw": "𐑥𐑦𐑯𐑗𐑦𐑯",
+            "tag": "0"
+        }
+    ],
+    "monocycles" :  [
+        {
+            "Shaw": "𐑥𐑪𐑯𐑴𐑕𐑲𐑒𐑩𐑤𐑟",
+            "tag": "0"
+        }
+    ],
+    "montclair" :  [
+        {
+            "Shaw": "Montclair",
             "tag": "0"
         }
     ],
@@ -722,6 +848,12 @@
     "multicycles": [
         {
             "Shaw": "𐑥𐑳𐑤𐑑𐑦𐑕𐑲𐑒𐑩𐑤𐑟",
+            "tag": "0"
+        }
+    ],
+    "mwres" :  [
+        {
+            "Shaw": "𐑥𐑪𐑮𐑦𐑕",
             "tag": "0"
         }
     ],
@@ -1079,12 +1211,6 @@
             "tag": "0"
         }
     ],
-    "leith" :  [
-        {
-            "Shaw": "𐑤𐑰𐑔",
-            "tag": "0"
-        }
-    ],
     "wey" :  [
         {
             "Shaw": "𐑢𐑱",
@@ -1199,21 +1325,9 @@
             "tag": "0"
         }
     ],
-    "lincrusta" :  [
-        {
-            "Shaw": "𐑤𐑦𐑯𐑒𐑮𐑳𐑕𐑑𐑩",
-            "tag": "0"
-        }
-    ],
     "terra cotta" :  [
         {
             "Shaw": "𐑑𐑧𐑮𐑩 𐑒𐑪𐑑𐑩",
-            "tag": "0"
-        }
-    ],
-    "mwres" :  [
-        {
-            "Shaw": "𐑥𐑪𐑮𐑦𐑕",
             "tag": "0"
         }
     ],
@@ -1226,18 +1340,6 @@
     "pimlico" :  [
         {
             "Shaw": "𐑐𐑦𐑥𐑤𐑦𐑒𐑴",
-            "tag": "0"
-        }
-    ],
-    "knobbed" :  [
-        {
-            "Shaw": "𐑯𐑪𐑚𐑛",
-            "tag": "0"
-        }
-    ],
-    "knobby" :  [
-        {
-            "Shaw": "𐑯𐑪𐑚𐑦",
             "tag": "0"
         }
     ],
@@ -1277,21 +1379,9 @@
             "tag": "0"
         }
     ],
-    "monocycles" :  [
-        {
-            "Shaw": "𐑥𐑪𐑯𐑴𐑕𐑲𐑒𐑩𐑤𐑟",
-            "tag": "0"
-        }
-    ],
     "quadricycles" :  [
         {
             "Shaw": "𐑒𐑢𐑪𐑛𐑮𐑩𐑕𐑲𐑒𐑩𐑤𐑟",
-            "tag": "0"
-        }
-    ],
-    "kinematograph" :  [
-        {
-            "Shaw": "𐑒𐑦𐑯𐑦𐑥𐑨𐑑𐑩𐑜𐑮𐑨𐑓",
             "tag": "0"
         }
     ],
@@ -1331,12 +1421,6 @@
             "tag": "0"
         }
     ],
-    "kinematographs" :  [
-        {
-            "Shaw": "𐑒𐑦𐑯𐑦𐑥𐑨𐑑𐑩𐑜𐑮𐑨𐑓𐑕",
-            "tag": "0"
-        }
-    ],
     "winningly" :  [
         {
             "Shaw": "𐑢𐑦𐑯𐑦𐑙𐑤𐑦",
@@ -1358,18 +1442,6 @@
     "wiv" :  [
         {
             "Shaw": "𐑢𐑦𐑝",
-            "tag": "0"
-        }
-    ],
-    "kickin" :  [
-        {
-            "Shaw": "𐑒𐑦𐑒𐑦𐑯",
-            "tag": "0"
-        }
-    ],
-    "looky" :  [
-        {
-            "Shaw": "𐑤𐑫𐑒𐑦",
             "tag": "0"
         }
     ],
@@ -1400,18 +1472,6 @@
     "thrippence" :  [
         {
             "Shaw": "𐑔𐑮𐑦𐑐𐑩𐑯𐑕",
-            "tag": "0"
-        }
-    ],
-    "keerless" :  [
-        {
-            "Shaw": "𐑒𐑺𐑤𐑩𐑕",
-            "tag": "0"
-        }
-    ],
-    "maximae" :  [
-        {
-            "Shaw": "𐑥𐑨𐑒𐑕𐑦𐑥𐑰",
             "tag": "0"
         }
     ],
@@ -1463,12 +1523,6 @@
             "tag": "0"
         }
     ],
-    "lemme" :  [
-        {
-            "Shaw": "Lemme",
-            "tag": "0"
-        }
-    ],
     "scrapper" :  [
         {
             "Shaw": "scrapper",
@@ -1493,12 +1547,6 @@
             "tag": "0"
         }
     ],
-    "machinate" :  [
-        {
-            "Shaw": "machinate",
-            "tag": "0"
-        }
-    ],
     "tristan" :  [
         {
             "Shaw": "Tristan",
@@ -1514,18 +1562,6 @@
     "pantoum" :  [
         {
             "Shaw": "PANTOUM",
-            "tag": "0"
-        }
-    ],
-    "mcwhirter" :  [
-        {
-            "Shaw": "McWhirter",
-            "tag": "0"
-        }
-    ],
-    "maybridge" :  [
-        {
-            "Shaw": "Maybridge",
             "tag": "0"
         }
     ],
@@ -1562,42 +1598,6 @@
     "tannhauser" :  [
         {
             "Shaw": "Tannhauser",
-            "tag": "0"
-        }
-    ],
-    "lullaborough" :  [
-        {
-            "Shaw": "Lullaborough",
-            "tag": "0"
-        }
-    ],
-    "mahomet" :  [
-        {
-            "Shaw": "Mahomet",
-            "tag": "0"
-        }
-    ],
-    "maydig" :  [
-        {
-            "Shaw": "Maydig",
-            "tag": "0"
-        }
-    ],
-    "mijitly" :  [
-        {
-            "Shaw": "mijitly",
-            "tag": "0"
-        }
-    ],
-    "minchin" :  [
-        {
-            "Shaw": "Minchin",
-            "tag": "0"
-        }
-    ],
-    "montclair" :  [
-        {
-            "Shaw": "Montclair",
             "tag": "0"
         }
     ],
