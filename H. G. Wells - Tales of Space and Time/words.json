@@ -227,21 +227,93 @@
             "tag": "0"
         }
     ],
+    "capella" :  [
+        {
+            "Shaw": "𐑒𐑩𐑐𐑧𐑤𐑩",
+            "tag": "0"
+        }
+    ],
+    "caveward" :  [
+        {
+            "Shaw": "𐑒𐑱𐑝𐑢𐑼𐑛",
+            "tag": "0"
+        }
+    ],
+    "cellini" :  [
+        {
+            "Shaw": "𐑗𐑧𐑤𐑰𐑯𐑦",
+            "tag": "0"
+        }
+    ],
+    "chalkland" :  [
+        {
+            "Shaw": "𐑗𐑷𐑒𐑤𐑨𐑯𐑛",
+            "tag": "0"
+        }
+    ],
     "chartless": [
         {
             "Shaw": "𐑗𐑸𐑑𐑤𐑩𐑕",
             "tag": "0"
         }
     ],
-     "commonness": [
+    "chromatophores" :  [
+        {
+            "Shaw": "𐑒𐑮𐑴𐑥𐑨𐑑𐑩𐑓𐑹𐑟",
+            "tag": "0"
+        }
+    ],
+    "cindery" :  [
+        {
+            "Shaw": "𐑕𐑦𐑯𐑛𐑼𐑦",
+            "tag": "0"
+        }
+    ],
+    "clamant" :  [
+        {
+            "Shaw": "𐑒𐑤𐑨𐑥𐑩𐑯𐑑",
+            "tag": "0"
+        }
+    ],
+    "cliffbrow" :  [
+        {
+            "Shaw": "𐑒𐑤𐑦𐑓𐑚𐑮𐑬",
+            "tag": "0"
+        }
+    ],
+    "cloacae" :  [
+        {
+            "Shaw": "𐑒𐑤𐑴𐑱𐑒𐑰",
+            "tag": "0"
+        }
+    ],
+    "commonness": [
         {
             "Shaw": "𐑒𐑪𐑥𐑩𐑯𐑯𐑩𐑕",
+            "tag": "0"
+        }
+    ],
+    "cotopaxi" :  [
+        {
+            "Shaw": "𐑒𐑪𐑑𐑴𐑐𐑨𐑒𐑕𐑦",
+            "tag": "0"
+        }
+    ],
+    "cotswolds" :  [
+        {
+            "Shaw": "𐑒𐑪𐑑𐑕𐑢𐑴𐑤𐑛𐑟",
             "tag": "0"
         }
     ],
     "curnow": [
         {
             "Shaw": "𐑒𐑻𐑯𐑴",
+            "tag": "0"
+        }
+    ],
+    "cutaneous" :  [
+        {
+            "Shaw": "𐑒𐑿𐑑𐑱𐑯𐑦𐑩𐑕",
             "tag": "0"
         }
     ],
@@ -767,21 +839,9 @@
             "tag": "0"
         }
     ],
-    "capella" :  [
-        {
-            "Shaw": "𐑒𐑩𐑐𐑧𐑤𐑩",
-            "tag": "0"
-        }
-    ],
     "refractive" :  [
         {
             "Shaw": "𐑮𐑦𐑓𐑮𐑨𐑒𐑑𐑦𐑝",
-            "tag": "0"
-        }
-    ],
-    "cotopaxi" :  [
-        {
-            "Shaw": "𐑒𐑪𐑑𐑴𐑐𐑨𐑒𐑕𐑦",
             "tag": "0"
         }
     ],
@@ -893,12 +953,6 @@
             "tag": "0"
         }
     ],
-    "chalkland" :  [
-        {
-            "Shaw": "𐑗𐑷𐑒𐑤𐑨𐑯𐑛",
-            "tag": "0"
-        }
-    ],
     "wealden" :  [
         {
             "Shaw": "𐑢𐑰𐑤𐑛𐑩𐑯",
@@ -908,12 +962,6 @@
     "redly" :  [
         {
             "Shaw": "𐑮𐑧𐑛𐑤𐑦",
-            "tag": "0"
-        }
-    ],
-    "cliffbrow" :  [
-        {
-            "Shaw": "𐑒𐑤𐑦𐑓𐑚𐑮𐑬",
             "tag": "0"
         }
     ],
@@ -932,12 +980,6 @@
     "waugh" :  [
         {
             "Shaw": "𐑢𐑷",
-            "tag": "0"
-        }
-    ],
-    "caveward" :  [
-        {
-            "Shaw": "𐑒𐑱𐑝𐑢𐑼𐑛",
             "tag": "0"
         }
     ],
@@ -1265,12 +1307,6 @@
             "tag": "0"
         }
     ],
-    "cloacae" :  [
-        {
-            "Shaw": "𐑒𐑤𐑴𐑱𐑒𐑰",
-            "tag": "0"
-        }
-    ],
     "maximae" :  [
         {
             "Shaw": "𐑥𐑨𐑒𐑕𐑦𐑥𐑰",
@@ -1295,12 +1331,6 @@
             "tag": "0"
         }
     ],
-    "cindery" :  [
-        {
-            "Shaw": "cindery",
-            "tag": "0"
-        }
-    ],
     "toke" :  [
         {
             "Shaw": "toke",
@@ -1310,12 +1340,6 @@
     "spiles" :  [
         {
             "Shaw": "spiles",
-            "tag": "0"
-        }
-    ],
-    "clamant" :  [
-        {
-            "Shaw": "clamant",
             "tag": "0"
         }
     ],
@@ -1385,18 +1409,6 @@
             "tag": "0"
         }
     ],
-    "chromatophores" :  [
-        {
-            "Shaw": "chromatophores",
-            "tag": "0"
-        }
-    ],
-    "cellini" :  [
-        {
-            "Shaw": "Cellini",
-            "tag": "0"
-        }
-    ],
     "jovian" :  [
         {
             "Shaw": "Jovian",
@@ -1433,12 +1445,6 @@
             "tag": "0"
         }
     ],
-    "cutaneous" :  [
-        {
-            "Shaw": "cutaneous",
-            "tag": "0"
-        }
-    ],
     "tristan" :  [
         {
             "Shaw": "Tristan",
@@ -1454,12 +1460,6 @@
     "diapering" :  [
         {
             "Shaw": "diapering",
-            "tag": "0"
-        }
-    ],
-    "cotswolds" :  [
-        {
-            "Shaw": "Cotswolds",
             "tag": "0"
         }
     ],
