@@ -83,6 +83,12 @@
             "tag": "0"
         }
     ],
+    "ballantyne" :  [
+        {
+            "Shaw": "𐑚𐑨𐑤𐑩𐑯𐑑𐑲𐑯",
+            "tag": "0"
+        }
+    ],
     "bashfulness": [
         {
             "Shaw": "𐑚𐑨𐑖𐑓𐑩𐑤𐑯𐑩𐑕",
@@ -119,6 +125,18 @@
             "tag": "0"
         }
     ],
+    "benson" :  [
+        {
+            "Shaw": "𐑚𐑧𐑯𐑕𐑩𐑯",
+            "tag": "0"
+        }
+    ],
+    "benvenuto" :  [
+        {
+            "Shaw": "𐑚𐑧𐑯𐑝𐑩𐑯𐑵𐑑𐑴",
+            "tag": "0"
+        }
+    ],
     "bindon" :  [
         {
             "Shaw": "𐑚𐑦𐑯𐑩𐑯",
@@ -143,6 +161,12 @@
             "tag": "0"
         }
     ],
+    "blavatsky" :  [
+        {
+            "Shaw": "𐑚𐑤𐑩𐑝𐑨𐑑𐑕𐑒𐑦",
+            "tag": "0"
+        }
+    ],
     "blowitz" :  [
         {
             "Shaw": "𐑚𐑤𐑴𐑦𐑑𐑕",
@@ -164,6 +188,12 @@
     "boloo" :  [
         {
             "Shaw": "𐑚𐑩𐑤𐑵",
+            "tag": "0"
+        }
+    ],
+    "bookman" :  [
+        {
+            "Shaw": "𐑚𐑫𐑒𐑥𐑩𐑯",
             "tag": "0"
         }
     ],
@@ -1361,12 +1391,6 @@
             "tag": "0"
         }
     ],
-    "benvenuto" :  [
-        {
-            "Shaw": "Benvenuto",
-            "tag": "0"
-        }
-    ],
     "cellini" :  [
         {
             "Shaw": "Cellini",
@@ -1508,30 +1532,6 @@
     "immering" :  [
         {
             "Shaw": "Immering",
-            "tag": "0"
-        }
-    ],
-    "ballantyne" :  [
-        {
-            "Shaw": "Ballantyne",
-            "tag": "0"
-        }
-    ],
-    "benson" :  [
-        {
-            "Shaw": "Benson",
-            "tag": "0"
-        }
-    ],
-    "blavatsky" :  [
-        {
-            "Shaw": "Blavatsky",
-            "tag": "0"
-        }
-    ],
-    "bookman" :  [
-        {
-            "Shaw": "Bookman",
             "tag": "0"
         }
     ],
