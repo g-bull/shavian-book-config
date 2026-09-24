@@ -1,4 +1,10 @@
 {
+    "aldebaran" :  [
+        {
+            "Shaw": "𐑨𐑤𐑛𐑧𐑚𐑩𐑮𐑩𐑯",
+            "tag": "0"
+        }
+    ],
     "ands": [
         {
             "Shaw": "'𐑨𐑯𐑛𐑟",
@@ -35,6 +41,12 @@
             "tag": "0"
         }
     ],
+    "bosso-kuni" :  [
+        {
+            "Shaw": " 𐑚𐑪𐑯𐑴-𐑒𐑵𐑯𐑦",
+            "tag": "0"
+        }
+    ],
     "chartless": [
         {
             "Shaw": "𐑗𐑸𐑑𐑤𐑩𐑕",
@@ -59,9 +71,27 @@
             "tag": "0"
         }
     ],
+    "en" :  [
+        {
+            "Shaw": "𐑩𐑯",
+            "tag": "0"
+        }
+    ],
+    "endmost" :  [
+        {
+            "Shaw": "𐑧𐑯𐑛𐑥𐑴𐑕𐑑",
+            "tag": "0"
+        }
+    ],
     "etruscans": [
         {
             "Shaw": "𐑦𐑑𐑮𐑳𐑕𐑒𐑩𐑯𐑟",
+            "tag": "0"
+        }
+    ],
+    "handedly" :  [
+        {
+            "Shaw": "𐑣𐑨𐑯𐑛𐑩𐑛𐑤𐑦",
             "tag": "0"
         }
     ],
@@ -104,6 +134,12 @@
     "incapables": [
         {
             "Shaw": "𐑦𐑯𐑒𐑱𐑐𐑩𐑚𐑩𐑤𐑟",
+            "tag": "0"
+        }
+    ],
+    "lichenous" :  [
+        {
+            "Shaw": "𐑤𐑲𐑒𐑩𐑯𐑩𐑕",
             "tag": "0"
         }
     ],
@@ -203,6 +239,18 @@
             "tag": "0"
         }
     ],
+    "planetoids" :  [
+        {
+            "Shaw": "𐑐𐑤𐑨𐑯𐑩𐑑𐑶𐑛𐑟",
+            "tag": "0"
+        }
+    ],
+    "pleiades" :  [
+        {
+            "Shaw": "𐑐𐑤𐑲𐑩𐑛𐑰𐑟",
+            "tag": "0"
+        }
+    ],
     "prandial" :  [
         {
             "Shaw": "𐑐𐑮𐑨𐑯𐑛𐑾𐑤",
@@ -233,9 +281,21 @@
             "tag": "0"
         }
     ],
+    "sirius" :  [
+        {
+            "Shaw": "𐑕𐑦𐑮𐑦𐑩𐑕",
+            "tag": "0"
+        }
+    ],
     "slosson" :  [
         {
             "Shaw": "𐑕𐑤𐑪𐑕𐑪𐑯",
+            "tag": "0"
+        }
+    ],
+    "tantalisingly" :  [
+        {
+            "Shaw": "𐑑𐑨𐑯𐑑𐑩𐑤𐑲𐑟𐑦𐑙𐑤𐑦",
             "tag": "0"
         }
     ],
@@ -353,6 +413,12 @@
             "tag": "0"
         }
     ],
+    "versa" :  [
+        {
+            "Shaw": "𐑝𐑻𐑕𐑩",
+            "tag": "0"
+        }
+    ],
     "wace" :  [
         {
             "Shaw": "𐑢𐑱𐑕",
@@ -401,81 +467,9 @@
             "tag": "0"
         }
     ],
-    "lichenous" :  [
-        {
-            "Shaw": "lichenous",
-            "tag": "0"
-        }
-    ],
-    "endmost" :  [
-        {
-            "Shaw": "endmost",
-            "tag": "0"
-        }
-    ],
-    "versa" :  [
-        {
-            "Shaw": "versa",
-            "tag": "0"
-        }
-    ],
-    "en" :  [
-        {
-            "Shaw": "en",
-            "tag": "0"
-        }
-    ],
-    "pleiades" :  [
-        {
-            "Shaw": "Pleiades",
-            "tag": "0"
-        }
-    ],
-    "aldebaran" :  [
-        {
-            "Shaw": "Aldebaran",
-            "tag": "0"
-        }
-    ],
-    "sirius" :  [
-        {
-            "Shaw": "Sirius",
-            "tag": "0"
-        }
-    ],
-    "tantalisingly" :  [
-        {
-            "Shaw": "tantalisingly",
-            "tag": "0"
-        }
-    ],
-    "handedly" :  [
-        {
-            "Shaw": "handedly",
-            "tag": "0"
-        }
-    ],
-    "bosso" :  [
-        {
-            "Shaw": "Bosso",
-            "tag": "0"
-        }
-    ],
-    "kuni" :  [
-        {
-            "Shaw": "Kuni",
-            "tag": "0"
-        }
-    ],
     "ogilvy" :  [
         {
             "Shaw": "Ogilvy",
-            "tag": "0"
-        }
-    ],
-    "planetoids" :  [
-        {
-            "Shaw": "planetoids",
             "tag": "0"
         }
     ],
