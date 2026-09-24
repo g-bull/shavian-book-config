@@ -1,0 +1,10 @@
+
+[book]
+
+input_filename  = "../epub/arthur-conan-doyle_a-study-in-scarlet.epub"
+output_dir = "../out"
+
+
+words_filename = "../book-config/arthur-conan-doyle_a-study-in-scarlet/words.json"
+
+phrases_filename = "../book-config/arthur-conan-doyle_a-study-in-scarlet/phrases.txt"

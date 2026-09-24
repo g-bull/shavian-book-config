@@ -1,0 +1,10 @@
+
+[book]
+
+input_filename  = "../epub/H. G. Wells - Tales of Space and Time - pg27365.epub"
+output_dir = "../out"
+
+
+words_filename = "../book-config/H. G. Wells - Tales of Space and Time/words.json"
+
+phrases_filename = "../book-config/H. G. Wells - Tales of Space and Time/phrases.txt"
