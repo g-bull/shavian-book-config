@@ -1,31 +1,55 @@
 {
-    "luminousness": [
+    "ands": [
         {
-            "Shaw": "𐑤𐑵𐑥𐑦𐑯𐑩𐑕𐑯𐑩𐑕",
+            "Shaw": "'𐑨𐑯𐑛𐑟",
             "tag": "0"
         }
     ],
-    "unsubstantial": [
+    "athleticism": [
         {
-            "Shaw": "𐑳𐑯𐑕𐑩𐑚𐑕𐑑𐑨𐑯𐑖𐑩𐑤",
+            "Shaw": "𐑨𐑔𐑤𐑧𐑑𐑩𐑕𐑦𐑟𐑩𐑥",
             "tag": "0"
         }
     ],
-    "hottentots": [
+    "bashfulness": [
         {
-            "Shaw": "𐑣𐑪𐑑𐑩𐑯𐑑𐑪𐑑𐑕",
+            "Shaw": "𐑚𐑨𐑖𐑓𐑩𐑤𐑯𐑩𐑕",
             "tag": "0"
         }
     ],
-    "commonness": [
+    "beamish": [
+        {
+            "Shaw": "𐑚𐑰𐑥𐑦𐑖",
+            "tag": "0"
+        }
+    ],
+    "chartless": [
+        {
+            "Shaw": "𐑗𐑸𐑑𐑤𐑩𐑕",
+            "tag": "0"
+        }
+    ],
+     "commonness": [
         {
             "Shaw": "𐑒𐑪𐑥𐑩𐑯𐑯𐑩𐑕",
             "tag": "0"
         }
     ],
-    "unspeculative": [
+    "curnow": [
         {
-            "Shaw": "𐑳𐑯𐑕𐑐𐑧𐑒𐑘𐑩𐑤𐑩𐑑𐑦𐑝",
+            "Shaw": "𐑒𐑻𐑯𐑴",
+            "tag": "0"
+        }
+    ],
+    "deland": [
+        {
+            "Shaw": "𐑛𐑰𐑤𐑨𐑯𐑛",
+            "tag": "0"
+        }
+    ],
+    "etruscans": [
+        {
+            "Shaw": "𐑦𐑑𐑮𐑳𐑕𐑒𐑩𐑯𐑟",
             "tag": "0"
         }
     ],
@@ -41,27 +65,33 @@
             "tag": "0"
         }
     ],
-    "etruscans": [
+    "heedlessness": [
         {
-            "Shaw": "𐑦𐑑𐑮𐑳𐑕𐑒𐑩𐑯𐑟",
+            "Shaw": "𐑣𐑰𐑛𐑤𐑩𐑕𐑯𐑩𐑕",
             "tag": "0"
         }
     ],
-    "athleticism": [
+    "hottentots": [
         {
-            "Shaw": "𐑨𐑔𐑤𐑧𐑑𐑩𐑕𐑦𐑟𐑩𐑥",
+            "Shaw": "𐑣𐑪𐑑𐑩𐑯𐑑𐑪𐑑𐑕",
             "tag": "0"
         }
     ],
-    "weedless": [
+    "incapables": [
         {
-            "Shaw": "𐑢𐑰𐑛𐑤𐑩𐑕",
+            "Shaw": "𐑦𐑯𐑒𐑱𐑐𐑩𐑚𐑩𐑤𐑟",
             "tag": "0"
         }
     ],
-    "unenclosed": [
+    "lindy": [
         {
-            "Shaw": "𐑳𐑯𐑦𐑯𐑒𐑤𐑴𐑟𐑛",
+            "Shaw": "𐑤𐑦𐑯𐑛𐑦",
+            "tag": "0"
+        }
+    ],
+    "luminousness": [
+        {
+            "Shaw": "𐑤𐑵𐑥𐑦𐑯𐑩𐑕𐑯𐑩𐑕",
             "tag": "0"
         }
     ],
@@ -77,27 +107,9 @@
             "tag": "0"
         }
     ],
-    "underways": [
+    "ooks": [
         {
-            "Shaw": "𐑳𐑯𐑛𐑼𐑢𐑱𐑟",
-            "tag": "0"
-        }
-    ],
-    "incapables": [
-        {
-            "Shaw": "𐑦𐑯𐑒𐑱𐑐𐑩𐑚𐑩𐑤𐑟",
-            "tag": "0"
-        }
-    ],
-    "unsentimental": [
-        {
-            "Shaw": "𐑳𐑯𐑕𐑧𐑯𐑑𐑦𐑥𐑧𐑯𐑑𐑩𐑤",
-            "tag": "0"
-        }
-    ],
-    "unprovident": [
-        {
-            "Shaw": "𐑳𐑯𐑐𐑮𐑪𐑝𐑦𐑛𐑩𐑯𐑑",
+            "Shaw": "'𐑫𐑒𐑕",
             "tag": "0"
         }
     ],
@@ -107,69 +119,9 @@
             "tag": "0"
         }
     ],
-    "reely": [
-        {
-            "Shaw": "𐑮𐑾𐑤𐑦",
-            "tag": "0"
-        }
-    ],
-    "ands": [
-        {
-            "Shaw": "'𐑨𐑯𐑛𐑟",
-            "tag": "0"
-        }
-    ],
-    "ung": [
-        {
-            "Shaw": "'𐑨𐑙",
-            "tag": "0"
-        }
-    ],
-    "ooks": [
-        {
-            "Shaw": "'𐑫𐑒𐑕",
-            "tag": "0"
-        }
-    ],
-    "chartless": [
-        {
-            "Shaw": "𐑗𐑸𐑑𐑤𐑩𐑕",
-            "tag": "0"
-        }
-    ],
-    "bashfulness": [
-        {
-            "Shaw": "𐑚𐑨𐑖𐑓𐑩𐑤𐑯𐑩𐑕",
-            "tag": "0"
-        }
-    ],
-    "wastefulness": [
-        {
-            "Shaw": "𐑢𐑱𐑕𐑑𐑓𐑩𐑤𐑯𐑩𐑕",
-            "tag": "0"
-        }
-    ],
-    "heedlessness": [
-        {
-            "Shaw": "𐑣𐑰𐑛𐑤𐑩𐑕𐑯𐑩𐑕",
-            "tag": "0"
-        }
-    ],
-    "unmeaning": [
-        {
-            "Shaw": "𐑳𐑯𐑥𐑰𐑯𐑦𐑙",
-            "tag": "0"
-        }
-    ],
     "penances": [
         {
             "Shaw": "𐑐𐑧𐑯𐑩𐑯𐑕𐑩𐑟",
-            "tag": "0"
-        }
-    ],
-    "unburthened": [
-        {
-            "Shaw": "𐑳𐑯𐑚𐑻𐑞𐑩𐑯𐑛",
             "tag": "0"
         }
     ],
@@ -179,27 +131,45 @@
             "tag": "0"
         }
     ],
-    "unseparated": [
-        {
-            "Shaw": "𐑳𐑯𐑕𐑧𐑐𐑼𐑱𐑑𐑩𐑛",
-            "tag": "0"
-        }
-    ],
-    "beamish": [
-        {
-            "Shaw": "𐑚𐑰𐑥𐑦𐑖",
-            "tag": "0"
-        }
-    ],
-    "unostentatious": [
-        {
-            "Shaw": "𐑳𐑯𐑪𐑕𐑑𐑧𐑯𐑑𐑱𐑖𐑩𐑕",
-            "tag": "0"
-        }
-    ],
     "profounder": [
         {
             "Shaw": "𐑐𐑮𐑴𐑓𐑬𐑯𐑛𐑼",
+            "tag": "0"
+        }
+    ],
+    "rawling" :  [
+        {
+            "Shaw": "𐑮𐑷𐑤𐑦𐑙",
+            "tag": "0"
+        }
+    ],
+    "rhodian" :  [
+        {
+            "Shaw": "𐑮𐑴𐑛𐑾𐑯",
+            "tag": "0"
+        }
+    ],
+    "san" :  [
+        {
+            "Shaw": "𐑕𐑨𐑯",
+            "tag": "0"
+        }
+    ],
+    "slosson" :  [
+        {
+            "Shaw": "𐑕𐑤𐑪𐑕𐑪𐑯",
+            "tag": "0"
+        }
+    ],
+    "thaumaturgist" :  [
+        {
+            "Shaw": "𐑔𐑷𐑥𐑩𐑑𐑻𐑡𐑦𐑕𐑑",
+            "tag": "0"
+        }
+    ],
+    "thaumaturgy" :  [
+        {
+            "Shaw": "𐑔𐑷𐑥𐑩𐑑𐑻𐑡𐑦",
             "tag": "0"
         }
     ],
@@ -209,21 +179,105 @@
             "tag": "0"
         }
     ],
-    "deland": [
+    "trumbull": [
         {
-            "Shaw": "𐑛𐑰𐑤𐑨𐑯𐑛",
+            "Shaw": "𐑑𐑮𐑳𐑥𐑚𐑫𐑤",
             "tag": "0"
         }
     ],
-    "curnow": [
+    "reely": [
         {
-            "Shaw": "𐑒𐑻𐑯𐑴",
+            "Shaw": "𐑮𐑾𐑤𐑦",
             "tag": "0"
         }
     ],
-    "lindy": [
+    "unburthened": [
         {
-            "Shaw": "𐑤𐑦𐑯𐑛𐑦",
+            "Shaw": "𐑳𐑯𐑚𐑻𐑞𐑩𐑯𐑛",
+            "tag": "0"
+        }
+    ],
+    "underways": [
+        {
+            "Shaw": "𐑳𐑯𐑛𐑼𐑢𐑱𐑟",
+            "tag": "0"
+        }
+    ],
+    "unenclosed": [
+        {
+            "Shaw": "𐑳𐑯𐑦𐑯𐑒𐑤𐑴𐑟𐑛",
+            "tag": "0"
+        }
+    ],
+    "ung": [
+        {
+            "Shaw": "'𐑨𐑙",
+            "tag": "0"
+        }
+    ],
+    "unmeaning": [
+        {
+            "Shaw": "𐑳𐑯𐑥𐑰𐑯𐑦𐑙",
+            "tag": "0"
+        }
+    ],
+    "unostentatious": [
+        {
+            "Shaw": "𐑳𐑯𐑪𐑕𐑑𐑧𐑯𐑑𐑱𐑖𐑩𐑕",
+            "tag": "0"
+        }
+    ],
+    "unprovident": [
+        {
+            "Shaw": "𐑳𐑯𐑐𐑮𐑪𐑝𐑦𐑛𐑩𐑯𐑑",
+            "tag": "0"
+        }
+    ],
+    "unsentimental": [
+        {
+            "Shaw": "𐑳𐑯𐑕𐑧𐑯𐑑𐑦𐑥𐑧𐑯𐑑𐑩𐑤",
+            "tag": "0"
+        }
+    ],
+    "unseparated": [
+        {
+            "Shaw": "𐑳𐑯𐑕𐑧𐑐𐑼𐑱𐑑𐑩𐑛",
+            "tag": "0"
+        }
+    ],
+    "unspeculative": [
+        {
+            "Shaw": "𐑳𐑯𐑕𐑐𐑧𐑒𐑘𐑩𐑤𐑩𐑑𐑦𐑝",
+            "tag": "0"
+        }
+    ],
+    "unsubstantial": [
+        {
+            "Shaw": "𐑳𐑯𐑕𐑩𐑚𐑕𐑑𐑨𐑯𐑖𐑩𐑤",
+            "tag": "0"
+        }
+    ],
+    "verne" :  [
+        {
+            "Shaw": "𐑝𐑻𐑯",
+            "tag": "0"
+        }
+    ],
+    "wastefulness": [
+        {
+            "Shaw": "𐑢𐑱𐑕𐑑𐑓𐑩𐑤𐑯𐑩𐑕",
+            "tag": "0"
+        }
+    ],
+    "watchung" :  [
+        {
+            "Shaw": "𐑢𐑭𐑗𐑨𐑙",
+            "tag": "0"
+        }
+    ],
+    "weedless": [
+        {
+            "Shaw": "𐑢𐑰𐑛𐑤𐑩𐑕",
             "tag": "0"
         }
     ],
@@ -233,57 +287,15 @@
             "tag": "0"
         }
     ],
-    "trumbull": [
+    "wilkins" :  [
         {
-            "Shaw": "𐑑𐑮𐑳𐑥𐑚𐑫𐑤",
+            "Shaw": "𐑢𐑦𐑤𐑒𐑦𐑯𐑟",
             "tag": "0"
         }
     ],
-    "ii": [
+    "wimms" :  [
         {
-            "Shaw": "II",
-            "tag": "0"
-        }
-    ],
-    "iii": [
-        {
-            "Shaw": "III",
-            "tag": "0"
-        }
-    ],
-    "iv": [
-        {
-            "Shaw": "IV",
-            "tag": "0"
-        }
-    ],
-    "v": [
-        {
-            "Shaw": "V",
-            "tag": "0"
-        }
-    ],
-    "vi": [
-        {
-            "Shaw": "VI",
-            "tag": "0"
-        }
-    ],
-    "vii": [
-        {
-            "Shaw": "VII",
-            "tag": "0"
-        }
-    ],
-    "viii": [
-        {
-            "Shaw": "VIII",
-            "tag": "0"
-        }
-    ],
-    "ix": [
-        {
-            "Shaw": "IX",
+            "Shaw": "𐑢𐑦𐑥𐑟",
             "tag": "0"
         }
     ],
@@ -1637,63 +1649,51 @@
             "tag": "0"
         }
     ],
-    "rawling" :  [
+    "ii": [
         {
-            "Shaw": "Rawling",
+            "Shaw": "II",
             "tag": "0"
         }
     ],
-    "rhodian" :  [
+    "iii": [
         {
-            "Shaw": "Rhodian",
+            "Shaw": "III",
             "tag": "0"
         }
     ],
-    "san" :  [
+    "iv": [
         {
-            "Shaw": "San",
+            "Shaw": "IV",
             "tag": "0"
         }
     ],
-    "slosson" :  [
+    "v": [
         {
-            "Shaw": "Slosson",
+            "Shaw": "V",
             "tag": "0"
         }
     ],
-    "thaumaturgist" :  [
+    "vi": [
         {
-            "Shaw": "thaumaturgist",
+            "Shaw": "VI",
             "tag": "0"
         }
     ],
-    "thaumaturgy" :  [
+    "vii": [
         {
-            "Shaw": "thaumaturgy",
+            "Shaw": "VII",
             "tag": "0"
         }
     ],
-    "verne" :  [
+    "viii": [
         {
-            "Shaw": "Verne",
+            "Shaw": "VIII",
             "tag": "0"
         }
     ],
-    "watchung" :  [
+    "ix": [
         {
-            "Shaw": "Watchung",
-            "tag": "0"
-        }
-    ],
-    "wilkins" :  [
-        {
-            "Shaw": "Wilkins",
-            "tag": "0"
-        }
-    ],
-    "wimms" :  [
-        {
-            "Shaw": "Wimms",
+            "Shaw": "IX",
             "tag": "0"
         }
     ]
