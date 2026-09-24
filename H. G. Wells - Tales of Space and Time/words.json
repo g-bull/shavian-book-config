@@ -467,421 +467,397 @@
             "tag": "0"
         }
     ],
-    "ogilvy" :  [
-        {
-            "Shaw": "Ogilvy",
-            "tag": "0"
-        }
-    ],
-    "regulus" :  [
-        {
-            "Shaw": "Regulus",
-            "tag": "0"
-        }
-    ],
     "duchaine" :  [
         {
-            "Shaw": "Duchaine",
+            "Shaw": "𐑛𐑵𐑖𐑧𐑯",
+            "tag": "0"
+        }
+    ],
+    "ogilvy" :  [
+        {
+            "Shaw": "𐑴𐑜𐑩𐑤𐑝𐑦",
             "tag": "0"
         }
     ],
     "pollux" :  [
         {
-            "Shaw": "Pollux",
+            "Shaw": "𐑐𐑪𐑤𐑳𐑒𐑕",
+            "tag": "0"
+        }
+    ],
+    "regulus" :  [
+        {
+            "Shaw": "𐑮𐑧𐑜𐑘𐑩𐑤𐑩𐑕",
             "tag": "0"
         }
     ],
     "incontinently" :  [
         {
-            "Shaw": "incontinently",
+            "Shaw": "𐑦𐑯𐑒𐑪𐑯𐑑𐑦𐑯𐑩𐑯𐑑𐑤𐑦",
             "tag": "0"
         }
     ],
     "zenithward" :  [
         {
-            "Shaw": "zenithward",
+            "Shaw": "𐑟𐑧𐑯𐑦𐑔𐑢𐑼𐑛",
             "tag": "0"
         }
     ],
     "capella" :  [
         {
-            "Shaw": "Capella",
+            "Shaw": "𐑒𐑩𐑐𐑧𐑤𐑩",
             "tag": "0"
         }
     ],
     "refractive" :  [
         {
-            "Shaw": "refractive",
+            "Shaw": "𐑮𐑦𐑓𐑮𐑨𐑒𐑑𐑦𐑝",
             "tag": "0"
         }
     ],
     "cotopaxi" :  [
         {
-            "Shaw": "Cotopaxi",
+            "Shaw": "𐑒𐑪𐑑𐑴𐑐𐑨𐑒𐑕𐑦",
             "tag": "0"
         }
     ],
     "nowhither" :  [
         {
-            "Shaw": "nowhither",
+            "Shaw": "𐑯𐑴𐑢𐑦𐑞𐑼",
             "tag": "0"
         }
     ],
     "thibet" :  [
         {
-            "Shaw": "Thibet",
+            "Shaw": "𐑑𐑦𐑚𐑧𐑑",
             "tag": "0"
         }
     ],
     "himalaya" :  [
         {
-            "Shaw": "Himalaya",
+            "Shaw": "𐑣𐑦𐑥𐑩𐑤𐑱𐑩",
             "tag": "0"
         }
     ],
     "burmah" :  [
         {
-            "Shaw": "Burmah",
+            "Shaw": "𐑚𐑻𐑥𐑩",
             "tag": "0"
         }
     ],
     "hindostan" :  [
         {
-            "Shaw": "Hindostan",
+            "Shaw": "𐑣𐑦𐑯𐑛𐑫𐑕𐑑𐑭𐑯",
             "tag": "0"
         }
     ],
     "indus" :  [
         {
-            "Shaw": "Indus",
+            "Shaw": "𐑦𐑯𐑛𐑩𐑕",
             "tag": "0"
         }
     ],
     "ganges" :  [
         {
-            "Shaw": "Ganges",
+            "Shaw": "𐑜𐑨𐑯𐑡𐑰𐑟",
             "tag": "0"
         }
     ],
     "baffin" :  [
         {
-            "Shaw": "Baffin",
+            "Shaw": "𐑚𐑨𐑓𐑩𐑯",
             "tag": "0"
         }
     ],
-    "lomi" :  [
+    "ugh-lomi" :  [
         {
-            "Shaw": "LOMI",
+            "Shaw": "𐑩𐑣-𐑤𐑴𐑥𐑦",
             "tag": "0"
         }
     ],
     "uya" :  [
         {
-            "Shaw": "UYA",
+            "Shaw": "𐑵𐑘𐑩",
             "tag": "0"
         }
     ],
     "dryshod" :  [
         {
-            "Shaw": "dryshod",
+            "Shaw": "𐑛𐑮𐑲𐑖𐑪𐑛",
             "tag": "0"
         }
     ],
     "leith" :  [
         {
-            "Shaw": "Leith",
+            "Shaw": "𐑤𐑰𐑔",
             "tag": "0"
         }
     ],
     "wey" :  [
         {
-            "Shaw": "Wey",
+            "Shaw": "𐑢𐑱",
             "tag": "0"
         }
     ],
     "ranunculus" :  [
         {
-            "Shaw": "ranunculus",
+            "Shaw": "𐑮𐑩𐑯𐑳𐑙𐑒𐑘𐑩𐑤𐑩𐑕",
             "tag": "0"
         }
     ],
     "boloo" :  [
         {
-            "Shaw": "Boloo",
+            "Shaw": "𐑚𐑩𐑤𐑵",
             "tag": "0"
         }
     ],
     "baayah" :  [
         {
-            "Shaw": "Baayah",
-            "tag": "0"
-        }
-    ],
-    "uya" :  [
-        {
-            "Shaw": "Uya",
+            "Shaw": "𐑚𐑭𐑘𐑩",
             "tag": "0"
         }
     ],
     "eudena" :  [
         {
-            "Shaw": "Eudena",
-            "tag": "0"
-        }
-    ],
-    "lomi" :  [
-        {
-            "Shaw": "lomi",
+            "Shaw": "𐑿𐑛𐑦𐑯𐑩",
             "tag": "0"
         }
     ],
     "sideway" :  [
         {
-            "Shaw": "sideway",
+            "Shaw": "𐑕𐑲𐑛𐑢𐑱",
             "tag": "0"
         }
     ],
     "woodshade" :  [
         {
-            "Shaw": "Woodshade",
+            "Shaw": "𐑢𐑫𐑛𐑖𐑱𐑛",
             "tag": "0"
         }
     ],
     "yaaa" :  [
         {
-            "Shaw": "Yaaa",
+            "Shaw": "𐑘𐑸",
             "tag": "0"
         }
     ],
     "heedlessly" :  [
         {
-            "Shaw": "heedlessly",
+            "Shaw": "𐑣𐑧𐑛𐑤𐑩𐑕𐑤𐑦",
             "tag": "0"
         }
     ],
     "wau" :  [
         {
-            "Shaw": "Wau",
+            "Shaw": "𐑢𐑬",
             "tag": "0"
         }
     ],
     "quartzite" :  [
         {
-            "Shaw": "quartzite",
+            "Shaw": "𐑒𐑢𐑹𐑑𐑕𐑲𐑑",
             "tag": "0"
         }
     ],
     "chalkland" :  [
         {
-            "Shaw": "chalkland",
+            "Shaw": "𐑗𐑷𐑒𐑤𐑨𐑯𐑛",
             "tag": "0"
         }
     ],
     "wealden" :  [
         {
-            "Shaw": "Wealden",
+            "Shaw": "𐑢𐑰𐑤𐑛𐑩𐑯",
             "tag": "0"
         }
     ],
     "redly" :  [
         {
-            "Shaw": "redly",
+            "Shaw": "𐑮𐑧𐑛𐑤𐑦",
             "tag": "0"
         }
     ],
     "cliffbrow" :  [
         {
-            "Shaw": "cliffbrow",
+            "Shaw": "𐑒𐑤𐑦𐑓𐑚𐑮𐑬",
             "tag": "0"
         }
     ],
     "andoo" :  [
         {
-            "Shaw": "Andoo",
+            "Shaw": "𐑨𐑯𐑛𐑵",
             "tag": "0"
         }
     ],
     "ya" :  [
         {
-            "Shaw": "Ya",
+            "Shaw": "𐑘𐑭",
             "tag": "0"
         }
     ],
     "beanfeasters" :  [
         {
-            "Shaw": "beanfeasters",
+            "Shaw": "𐑚𐑰𐑯𐑓𐑰𐑕𐑑𐑼𐑟",
             "tag": "0"
         }
     ],
     "beechwoods" :  [
         {
-            "Shaw": "beechwoods",
+            "Shaw": "𐑚𐑰𐑗𐑢𐑫𐑛𐑟",
             "tag": "0"
         }
     ],
     "beechwood" :  [
         {
-            "Shaw": "beechwood",
+            "Shaw": "𐑚𐑰𐑗𐑢𐑫𐑛",
             "tag": "0"
         }
     ],
     "wort" :  [
         {
-            "Shaw": "wort",
+            "Shaw": "𐑢𐑻𐑑",
             "tag": "0"
         }
     ],
     "waugh" :  [
         {
-            "Shaw": "Waugh",
+            "Shaw": "𐑢𐑷",
             "tag": "0"
         }
     ],
     "caveward" :  [
         {
-            "Shaw": "caveward",
+            "Shaw": "𐑒𐑱𐑝𐑢𐑼𐑛",
             "tag": "0"
         }
     ],
     "ursine" :  [
         {
-            "Shaw": "ursine",
-            "tag": "0"
-        }
-    ],
-    "ya" :  [
-        {
-            "Shaw": "ya",
+            "Shaw": "𐑐𐑻𐑕𐑩𐑯",
             "tag": "0"
         }
     ],
     "downland" :  [
         {
-            "Shaw": "downland",
+            "Shaw": "𐑛𐑬𐑯𐑤𐑨𐑯𐑛",
             "tag": "0"
         }
     ],
     "turfy" :  [
         {
-            "Shaw": "turfy",
+            "Shaw": "𐑑𐑻𐑓𐑦",
             "tag": "0"
         }
     ],
     "whup" :  [
         {
-            "Shaw": "Whup",
+            "Shaw": "𐑢𐑳𐑐",
             "tag": "0"
         }
     ],
     "irm" :  [
         {
-            "Shaw": "Irm",
+            "Shaw": "𐑻𐑥",
             "tag": "0"
         }
     ],
     "siss" :  [
         {
-            "Shaw": "Siss",
+            "Shaw": "𐑕𐑦𐑕",
             "tag": "0"
         }
     ],
-    "hau" :  [
+    "wau-hau" :  [
         {
-            "Shaw": "Hau",
+            "Shaw": "𐑢𐑬-𐑣𐑬",
             "tag": "0"
         }
     ],
     "si" :  [
         {
-            "Shaw": "Si",
+            "Shaw": "𐑕𐑦",
             "tag": "0"
         }
     ],
     "highty" :  [
         {
-            "Shaw": "highty",
+            "Shaw": "𐑣𐑤𐑲𐑑𐑦",
             "tag": "0"
         }
     ],
     "timbering" :  [
         {
-            "Shaw": "timbering",
+            "Shaw": "𐑑𐑦𐑥𐑚𐑼𐑦𐑙",
             "tag": "0"
         }
     ],
     "lincrusta" :  [
         {
-            "Shaw": "Lincrusta",
+            "Shaw": "𐑤𐑦𐑯𐑒𐑮𐑳𐑕𐑑𐑩",
             "tag": "0"
         }
     ],
-    "terra" :  [
+    "terra cotta" :  [
         {
-            "Shaw": "terra",
-            "tag": "0"
-        }
-    ],
-    "cotta" :  [
-        {
-            "Shaw": "cotta",
+            "Shaw": "𐑑𐑧𐑮𐑩 𐑒𐑪𐑑𐑩",
             "tag": "0"
         }
     ],
     "mwres" :  [
         {
-            "Shaw": "Mwres",
+            "Shaw": "𐑥𐑪𐑮𐑦𐑕",
             "tag": "0"
         }
     ],
     "blowitz" :  [
         {
-            "Shaw": "Blowitz",
+            "Shaw": "𐑚𐑤𐑴𐑦𐑑𐑕",
             "tag": "0"
         }
     ],
     "phonographic" :  [
         {
-            "Shaw": "phonographic",
+            "Shaw": "𐑓𐑴𐑯𐑩𐑜𐑮𐑨𐑓𐑦𐑒",
             "tag": "0"
         }
     ],
     "galloop" :  [
         {
-            "Shaw": "Galloop",
+            "Shaw": "𐑜𐑭𐑤𐑫𐑐",
             "tag": "0"
         }
     ],
     "flounderers" :  [
         {
-            "Shaw": "flounderers",
+            "Shaw": "𐑓𐑤𐑬𐑯𐑛𐑼𐑼𐑟",
             "tag": "0"
         }
     ],
     "bindon" :  [
         {
-            "Shaw": "Bindon",
+            "Shaw": "𐑚𐑦𐑯𐑩𐑯",
             "tag": "0"
         }
     ],
     "elizebeth" :  [
         {
-            "Shaw": "Elizebeth",
+            "Shaw": "𐑦𐑤𐑦𐑟𐑩𐑚𐑩𐑔",
             "tag": "0"
         }
     ],
     "denton" :  [
         {
-            "Shaw": "Denton",
+            "Shaw": "𐑛𐑧𐑯𐑑𐑩𐑯",
             "tag": "0"
         }
     ],
     "pimlico" :  [
         {
-            "Shaw": "Pimlico",
+            "Shaw": "𐑐𐑦𐑥𐑤𐑦𐑒𐑴",
             "tag": "0"
         }
     ],
-    "daedal" :  [
+    "xxxdaedal" :  [
         {
             "Shaw": "daedal",
             "tag": "0"
@@ -889,121 +865,121 @@
     ],
     "knobbed" :  [
         {
-            "Shaw": "knobbed",
+            "Shaw": "𐑯𐑪𐑚𐑛",
             "tag": "0"
         }
     ],
     "knobby" :  [
         {
-            "Shaw": "knobby",
+            "Shaw": "𐑯𐑪𐑚𐑦",
             "tag": "0"
         }
     ],
     "ferrety" :  [
         {
-            "Shaw": "ferrety",
+            "Shaw": "𐑓𐑧𐑮𐑩𐑑𐑦",
             "tag": "0"
         }
     ],
     "straightly" :  [
         {
-            "Shaw": "straightly",
+            "Shaw": "𐑕𐑑𐑮𐑱𐑑𐑤𐑦",
             "tag": "0"
         }
     ],
     "agriculturist" :  [
         {
-            "Shaw": "agriculturist",
+            "Shaw": "𐑨𐑜𐑮𐑦𐑒𐑳𐑤𐑗𐑼𐑦𐑕𐑑",
             "tag": "0"
         }
     ],
     "townward" :  [
         {
-            "Shaw": "townward",
+            "Shaw": "𐑑𐑬𐑯𐑢𐑼𐑛",
             "tag": "0"
         }
     ],
     "eadhamite" :  [
         {
-            "Shaw": "Eadhamite",
+            "Shaw": "𐑰𐑛𐑩𐑥𐑲𐑑",
             "tag": "0"
         }
     ],
     "eadham" :  [
         {
-            "Shaw": "Eadham",
+            "Shaw": "𐑰𐑛𐑩𐑥",
             "tag": "0"
         }
     ],
     "windowed" :  [
         {
-            "Shaw": "windowed",
+            "Shaw": "𐑢𐑦𐑯𐑛𐑴𐑛",
             "tag": "0"
         }
     ],
     "enders" :  [
         {
-            "Shaw": "enders",
+            "Shaw": "𐑧𐑯𐑛𐑼𐑟",
             "tag": "0"
         }
     ],
     "whitechapel" :  [
         {
-            "Shaw": "Whitechapel",
+            "Shaw": "𐑢𐑲𐑑𐑗𐑨𐑐𐑩𐑤",
             "tag": "0"
         }
     ],
     "facedly" :  [
         {
-            "Shaw": "facedly",
+            "Shaw": "𐑓𐑱𐑕𐑩𐑛𐑤𐑦",
             "tag": "0"
         }
     ],
     "privacies" :  [
         {
-            "Shaw": "privacies",
+            "Shaw": "𐑐𐑮𐑦𐑝𐑩𐑕𐑦𐑟",
             "tag": "0"
         }
     ],
     "wandle" :  [
         {
-            "Shaw": "Wandle",
+            "Shaw": "𐑢𐑪𐑯𐑛𐑩𐑤",
             "tag": "0"
         }
     ],
     "monocycles" :  [
         {
-            "Shaw": "monocycles",
+            "Shaw": "𐑥𐑪𐑯𐑴𐑕𐑲𐑒𐑩𐑤𐑟",
             "tag": "0"
         }
     ],
     "quadricycles" :  [
         {
-            "Shaw": "quadricycles",
+            "Shaw": "𐑒𐑢𐑪𐑛𐑮𐑩𐑕𐑲𐑒𐑩𐑤𐑟",
             "tag": "0"
         }
     ],
     "kinematograph" :  [
         {
-            "Shaw": "kinematograph",
+            "Shaw": "𐑒𐑦𐑯𐑦𐑥𐑨𐑑𐑩𐑜𐑮𐑨𐑓",
             "tag": "0"
         }
     ],
     "weeders" :  [
         {
-            "Shaw": "weeders",
+            "Shaw": "𐑢𐑰𐑛𐑼𐑟",
             "tag": "0"
         }
     ],
     "ssh" :  [
         {
-            "Shaw": "Ssh",
+            "Shaw": "𐑖",
             "tag": "0"
         }
     ],
     "unparallelled" :  [
         {
-            "Shaw": "unparallelled",
+            "Shaw": "𐑳𐑯𐑐𐑨𐑮𐑩𐑤𐑧𐑤𐑛",
             "tag": "0"
         }
     ],
