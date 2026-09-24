@@ -665,15 +665,33 @@
             "tag": "0"
         }
     ],
+    "jago" :  [
+        {
+            "Shaw": "𐑡𐑱𐑜𐑴",
+            "tag": "0"
+        }
+    ],
     "jerkings": [
         {
             "Shaw": "𐑡𐑻𐑒𐑦𐑙𐑟",
             "tag": "0"
         }
     ],
+    "jovian" :  [
+        {
+            "Shaw": " 𐑡𐑴𐑝𐑾𐑯",
+            "tag": "0"
+        }
+    ],
     "judicially" :  [
         {
             "Shaw": "𐑡𐑵𐑛𐑦𐑖𐑩𐑤𐑦",
+            "tag": "0"
+        }
+    ],
+    "jules" :  [
+        {
+            "Shaw": "𐑡𐑵𐑤𐑟 ",
             "tag": "0"
         }
     ],
@@ -1397,12 +1415,6 @@
             "tag": "0"
         }
     ],
-    "jago" :  [
-        {
-            "Shaw": "𐑡𐑱𐑜𐑴",
-            "tag": "0"
-        }
-    ],
     "thickset" :  [
         {
             "Shaw": "thickset",
@@ -1466,12 +1478,6 @@
     "tastin" :  [
         {
             "Shaw": "Tastin",
-            "tag": "0"
-        }
-    ],
-    "jovian" :  [
-        {
-            "Shaw": "Jovian",
             "tag": "0"
         }
     ],
@@ -1556,12 +1562,6 @@
     "tannhauser" :  [
         {
             "Shaw": "Tannhauser",
-            "tag": "0"
-        }
-    ],
-    "jules" :  [
-        {
-            "Shaw": "Jules",
             "tag": "0"
         }
     ],
