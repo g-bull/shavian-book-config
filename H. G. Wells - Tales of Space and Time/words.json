@@ -317,9 +317,63 @@
             "tag": "0"
         }
     ],
+    "daedal XXX" :  [
+        {
+            "Shaw": "daedal",
+            "tag": "0"
+        }
+    ],
     "deland": [
         {
             "Shaw": "𐑛𐑰𐑤𐑨𐑯𐑛",
+            "tag": "0"
+        }
+    ],
+    "denton" :  [
+        {
+            "Shaw": "𐑛𐑧𐑯𐑑𐑩𐑯",
+            "tag": "0"
+        }
+    ],
+    "depilated" :  [
+        {
+            "Shaw": "𐑛𐑧𐑐𐑦𐑤𐑱𐑑𐑦𐑛",
+            "tag": "0"
+        }
+    ],
+    "diapering" :  [
+        {
+            "Shaw": "𐑛𐑲𐑩𐑐𐑼𐑦𐑙",
+            "tag": "0"
+        }
+    ],
+    "dings" :  [
+        {
+            "Shaw": "𐑛𐑦𐑙𐑟",
+            "tag": "0"
+        }
+    ],
+    "distensible" :  [
+        {
+            "Shaw": "𐑛𐑦𐑕𐑑𐑧𐑯𐑕𐑩𐑚𐑩𐑤",
+            "tag": "0"
+        }
+    ],
+    "downland" :  [
+        {
+            "Shaw": "𐑛𐑬𐑯𐑤𐑨𐑯𐑛",
+            "tag": "0"
+        }
+    ],
+    "dryshod" :  [
+        {
+            "Shaw": "𐑛𐑮𐑲𐑖𐑪𐑛",
+            "tag": "0"
+        }
+    ],
+    "duchaine" :  [
+        {
+            "Shaw": "𐑛𐑵𐑖𐑧𐑯",
             "tag": "0"
         }
     ],
@@ -803,12 +857,6 @@
             "tag": "0"
         }
     ],
-    "duchaine" :  [
-        {
-            "Shaw": "𐑛𐑵𐑖𐑧𐑯",
-            "tag": "0"
-        }
-    ],
     "ogilvy" :  [
         {
             "Shaw": "𐑴𐑜𐑩𐑤𐑝𐑦",
@@ -884,12 +932,6 @@
     "uya" :  [
         {
             "Shaw": "𐑵𐑘𐑩",
-            "tag": "0"
-        }
-    ],
-    "dryshod" :  [
-        {
-            "Shaw": "𐑛𐑮𐑲𐑖𐑪𐑛",
             "tag": "0"
         }
     ],
@@ -989,12 +1031,6 @@
             "tag": "0"
         }
     ],
-    "downland" :  [
-        {
-            "Shaw": "𐑛𐑬𐑯𐑤𐑨𐑯𐑛",
-            "tag": "0"
-        }
-    ],
     "turfy" :  [
         {
             "Shaw": "𐑑𐑻𐑓𐑦",
@@ -1073,21 +1109,9 @@
             "tag": "0"
         }
     ],
-    "denton" :  [
-        {
-            "Shaw": "𐑛𐑧𐑯𐑑𐑩𐑯",
-            "tag": "0"
-        }
-    ],
     "pimlico" :  [
         {
             "Shaw": "𐑐𐑦𐑥𐑤𐑦𐑒𐑴",
-            "tag": "0"
-        }
-    ],
-    "xxxdaedal" :  [
-        {
-            "Shaw": "daedal",
             "tag": "0"
         }
     ],
@@ -1196,12 +1220,6 @@
     "oleographs" :  [
         {
             "Shaw": " 𐑴𐑤𐑦𐑩𐑜𐑮𐑨𐑓𐑕",
-            "tag": "0"
-        }
-    ],
-    "dings" :  [
-        {
-            "Shaw": "𐑛𐑦𐑙𐑟",
             "tag": "0"
         }
     ],
@@ -1397,18 +1415,6 @@
             "tag": "0"
         }
     ],
-    "depilated" :  [
-        {
-            "Shaw": "depilated",
-            "tag": "0"
-        }
-    ],
-    "distensible" :  [
-        {
-            "Shaw": "distensible",
-            "tag": "0"
-        }
-    ],
     "jovian" :  [
         {
             "Shaw": "Jovian",
@@ -1454,12 +1460,6 @@
     "neronic" :  [
         {
             "Shaw": "Neronic",
-            "tag": "0"
-        }
-    ],
-    "diapering" :  [
-        {
-            "Shaw": "diapering",
             "tag": "0"
         }
     ],
