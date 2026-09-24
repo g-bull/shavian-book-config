@@ -23,6 +23,18 @@
             "tag": "0"
         }
     ],
+    "bedabbled" :  [
+        {
+            "Shaw": "𐑚𐑦𐑛𐑨𐑚𐑩𐑤𐑛",
+            "tag": "0"
+        }
+    ],
+    "blundell" :  [
+        {
+            "Shaw": "𐑚𐑤𐑳𐑯𐑛𐑩𐑤",
+            "tag": "0"
+        }
+    ],
     "chartless": [
         {
             "Shaw": "𐑗𐑸𐑑𐑤𐑩𐑕",
@@ -59,9 +71,21 @@
             "tag": "0"
         }
     ],
+    "jacoby" :  [
+        {
+            "Shaw": "𐑡𐑱𐑒𐑩𐑚𐑦",
+            "tag": "0"
+        }
+    ],
     "jerkings": [
         {
             "Shaw": "𐑡𐑻𐑒𐑦𐑙𐑟",
+            "tag": "0"
+        }
+    ],
+    "judicially" :  [
+        {
+            "Shaw": "𐑡𐑵𐑛𐑦𐑖𐑩𐑤𐑦",
             "tag": "0"
         }
     ],
@@ -107,9 +131,33 @@
             "tag": "0"
         }
     ],
+    "nebulosity" :  [
+        {
+            "Shaw": "𐑯𐑧𐑚𐑘𐑩𐑤𐑪𐑕𐑦𐑑𐑦",
+            "tag": "0"
+        }
+    ],
+    "nj" :  [
+        {
+            "Shaw": "𐑧𐑯𐑡𐑱",
+            "tag": "0"
+        }
+    ],
     "ooks": [
         {
             "Shaw": "'𐑫𐑒𐑕",
+            "tag": "0"
+        }
+    ],
+    "opalescence" :  [
+        {
+            "Shaw": "𐑴𐑐𐑩𐑤𐑧𐑕𐑩𐑯𐑕",
+            "tag": "0"
+        }
+    ],
+    "ostrog" :  [
+        {
+            "Shaw": "𐑪𐑕𐑑𐑮𐑪𐑜",
             "tag": "0"
         }
     ],
@@ -119,15 +167,45 @@
             "tag": "0"
         }
     ],
+    "pasteur" :  [
+        {
+            "Shaw": "𐑐𐑭𐑕𐑑𐑼",
+            "tag": "0"
+        }
+    ],
     "penances": [
         {
             "Shaw": "𐑐𐑧𐑯𐑩𐑯𐑕𐑩𐑟",
             "tag": "0"
         }
     ],
+    "phillpotts" :  [
+        {
+            "Shaw": "𐑓𐑦𐑤𐑐𐑪𐑑𐑕",
+            "tag": "0"
+        }
+    ],
     "pipings": [
         {
             "Shaw": "𐑐𐑲𐑐𐑦𐑙𐑟",
+            "tag": "0"
+        }
+    ],
+    "pg" :  [
+        {
+            "Shaw": "𐑐𐑰𐑡𐑰",
+            "tag": "0"
+        }
+    ],
+    "pglaf" :  [
+        {
+            "Shaw": "𐑐𐑰𐑡𐑰𐑧𐑤𐑲𐑧𐑓",
+            "tag": "0"
+        }
+    ],
+    "prandial" :  [
+        {
+            "Shaw": "𐑐𐑮𐑨𐑯𐑛𐑾𐑤",
             "tag": "0"
         }
     ],
@@ -161,6 +239,12 @@
             "tag": "0"
         }
     ],
+    "taxidermic" :  [
+        {
+            "Shaw": "𐑑𐑨𐑒𐑕𐑦𐑛𐑻𐑥𐑦𐑒",
+            "tag": "0"
+        }
+    ],
     "thaumaturgist" :  [
         {
             "Shaw": "𐑔𐑷𐑥𐑩𐑑𐑻𐑡𐑦𐑕𐑑",
@@ -182,6 +266,12 @@
     "trumbull": [
         {
             "Shaw": "𐑑𐑮𐑳𐑥𐑚𐑫𐑤",
+            "tag": "0"
+        }
+    ],
+    "typographical" :  [
+        {
+            "Shaw": "𐑑𐑲𐑐𐑩𐑜𐑮𐑨𐑓𐑦𐑒𐑩𐑤",
             "tag": "0"
         }
     ],
@@ -263,6 +353,12 @@
             "tag": "0"
         }
     ],
+    "wace" :  [
+        {
+            "Shaw": "𐑢𐑱𐑕",
+            "tag": "0"
+        }
+    ],
     "wastefulness": [
         {
             "Shaw": "𐑢𐑱𐑕𐑑𐑓𐑩𐑤𐑯𐑩𐑕",
@@ -287,6 +383,12 @@
             "tag": "0"
         }
     ],
+    "westbourne" :  [
+        {
+            "Shaw": "𐑢𐑧𐑕𐑑𐑚𐑹𐑯",
+            "tag": "0"
+        }
+    ],
     "wilkins" :  [
         {
             "Shaw": "𐑢𐑦𐑤𐑒𐑦𐑯𐑟",
@@ -296,72 +398,6 @@
     "wimms" :  [
         {
             "Shaw": "𐑢𐑦𐑥𐑟",
-            "tag": "0"
-        }
-    ],
-    "blundell" :  [
-        {
-            "Shaw": "Blundell",
-            "tag": "0"
-        }
-    ],
-    "typographical" :  [
-        {
-            "Shaw": "typographical",
-            "tag": "0"
-        }
-    ],
-    "taxidermic" :  [
-        {
-            "Shaw": "taxidermic",
-            "tag": "0"
-        }
-    ],
-    "bedabbled" :  [
-        {
-            "Shaw": "bedabbled",
-            "tag": "0"
-        }
-    ],
-    "jacoby" :  [
-        {
-            "Shaw": "Jacoby",
-            "tag": "0"
-        }
-    ],
-    "wace" :  [
-        {
-            "Shaw": "Wace",
-            "tag": "0"
-        }
-    ],
-    "westbourne" :  [
-        {
-            "Shaw": "Westbourne",
-            "tag": "0"
-        }
-    ],
-    "judicially" :  [
-        {
-            "Shaw": "judicially",
-            "tag": "0"
-        }
-    ],
-    "pasteur" :  [
-        {
-            "Shaw": "Pasteur",
-            "tag": "0"
-        }
-    ],
-    "opalescence" :  [
-        {
-            "Shaw": "opalescence",
-            "tag": "0"
-        }
-    ],
-    "nebulosity" :  [
-        {
-            "Shaw": "nebulosity",
             "tag": "0"
         }
     ],
@@ -1610,42 +1646,6 @@
     "montclair" :  [
         {
             "Shaw": "Montclair",
-            "tag": "0"
-        }
-    ],
-    "nj" :  [
-        {
-            "Shaw": "NJ",
-            "tag": "0"
-        }
-    ],
-    "ostrog" :  [
-        {
-            "Shaw": "Ostrog",
-            "tag": "0"
-        }
-    ],
-    "pg" :  [
-        {
-            "Shaw": "PG",
-            "tag": "0"
-        }
-    ],
-    "pglaf" :  [
-        {
-            "Shaw": "PGLAF",
-            "tag": "0"
-        }
-    ],
-    "phillpotts" :  [
-        {
-            "Shaw": "Phillpotts",
-            "tag": "0"
-        }
-    ],
-    "prandial" :  [
-        {
-            "Shaw": "prandial",
             "tag": "0"
         }
     ],
