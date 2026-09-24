@@ -89,6 +89,90 @@
             "tag": "0"
         }
     ],
+    "facedly" :  [
+        {
+            "Shaw": "𐑓𐑱𐑕𐑩𐑛𐑤𐑦",
+            "tag": "0"
+        }
+    ],
+    "felloes" :  [
+        {
+            "Shaw": "𐑓𐑧𐑤𐑴𐑟",
+            "tag": "0"
+        }
+    ],
+    "ferrety" :  [
+        {
+            "Shaw": "𐑓𐑧𐑮𐑩𐑑𐑦",
+            "tag": "0"
+        }
+    ],
+    "flinder" :  [
+        {
+            "Shaw": "𐑓𐑤𐑦𐑯𐑛𐑩",
+            "tag": "0"
+        }
+    ],
+    "flounderers" :  [
+        {
+            "Shaw": "𐑓𐑤𐑬𐑯𐑛𐑼𐑼𐑟",
+            "tag": "0"
+        }
+    ],
+    "fotheringay" :  [
+        {
+            "Shaw": "𐑓𐑪𐑞𐑩𐑮𐑦𐑙𐑜𐑱",
+            "tag": "0"
+        }
+    ],
+    "frangible" :  [
+        {
+            "Shaw": "𐑓𐑮𐑨𐑯𐑡𐑩𐑚𐑩𐑤",
+            "tag": "0"
+        }
+    ],
+    "galloop" :  [
+        {
+            "Shaw": "𐑜𐑭𐑤𐑫𐑐",
+            "tag": "0"
+        }
+    ],
+    "ganges" :  [
+        {
+            "Shaw": "𐑜𐑨𐑯𐑡𐑰𐑟",
+            "tag": "0"
+        }
+    ],
+    "gimme" :  [
+        {
+            "Shaw": "𐑜𐑦𐑥𐑰",
+            "tag": "0"
+        }
+    ],
+    "gobblimey" :  [
+        {
+            "Shaw": "𐑒𐑪𐑚𐑤𐑲𐑪𐑦",
+            "tag": "0"
+        }
+    ],
+    "goethe" :  [
+        {
+            "Shaw": "𐑜𐑻︀𐑑𐑩",
+            "tag": "0"
+        }
+    ],
+    "gorblimey" :  [
+        {
+            "Shaw": "𐑜𐑹𐑚𐑤𐑲𐑥𐑦",
+            "tag": "0"
+        }
+    ],
+    "grayly" :  [
+        {
+            "Shaw": "𐑜𐑮𐑱𐑤𐑦",
+            "tag": "0"
+        }
+    ],
     "handedly" :  [
         {
             "Shaw": "𐑣𐑨𐑯𐑛𐑩𐑛𐑤𐑦",
@@ -557,12 +641,6 @@
             "tag": "0"
         }
     ],
-    "ganges" :  [
-        {
-            "Shaw": "𐑜𐑨𐑯𐑡𐑰𐑟",
-            "tag": "0"
-        }
-    ],
     "baffin" :  [
         {
             "Shaw": "𐑚𐑨𐑓𐑩𐑯",
@@ -821,18 +899,6 @@
             "tag": "0"
         }
     ],
-    "galloop" :  [
-        {
-            "Shaw": "𐑜𐑭𐑤𐑫𐑐",
-            "tag": "0"
-        }
-    ],
-    "flounderers" :  [
-        {
-            "Shaw": "𐑓𐑤𐑬𐑯𐑛𐑼𐑼𐑟",
-            "tag": "0"
-        }
-    ],
     "bindon" :  [
         {
             "Shaw": "𐑚𐑦𐑯𐑩𐑯",
@@ -872,12 +938,6 @@
     "knobby" :  [
         {
             "Shaw": "𐑯𐑪𐑚𐑦",
-            "tag": "0"
-        }
-    ],
-    "ferrety" :  [
-        {
-            "Shaw": "𐑓𐑧𐑮𐑩𐑑𐑦",
             "tag": "0"
         }
     ],
@@ -926,12 +986,6 @@
     "whitechapel" :  [
         {
             "Shaw": "𐑢𐑲𐑑𐑗𐑨𐑐𐑩𐑤",
-            "tag": "0"
-        }
-    ],
-    "facedly" :  [
-        {
-            "Shaw": "𐑓𐑱𐑕𐑩𐑛𐑤𐑦",
             "tag": "0"
         }
     ],
@@ -1145,12 +1199,6 @@
             "tag": "0"
         }
     ],
-    "gorblimey" :  [
-        {
-            "Shaw": "Gorblimey",
-            "tag": "0"
-        }
-    ],
     "thickset" :  [
         {
             "Shaw": "thickset",
@@ -1160,12 +1208,6 @@
     "cindery" :  [
         {
             "Shaw": "cindery",
-            "tag": "0"
-        }
-    ],
-    "gimme" :  [
-        {
-            "Shaw": "Gimme",
             "tag": "0"
         }
     ],
@@ -1235,12 +1277,6 @@
             "tag": "0"
         }
     ],
-    "gobblimey" :  [
-        {
-            "Shaw": "Gobblimey",
-            "tag": "0"
-        }
-    ],
     "tisn" :  [
         {
             "Shaw": "Tisn",
@@ -1262,18 +1298,6 @@
     "arst" :  [
         {
             "Shaw": "arst",
-            "tag": "0"
-        }
-    ],
-    "grayly" :  [
-        {
-            "Shaw": "grayly",
-            "tag": "0"
-        }
-    ],
-    "keerless" :  [
-        {
-            "Shaw": "keerless",
             "tag": "0"
         }
     ],
@@ -1310,12 +1334,6 @@
     "chromatophores" :  [
         {
             "Shaw": "chromatophores",
-            "tag": "0"
-        }
-    ],
-    "goethe" :  [
-        {
-            "Shaw": "Goethe",
             "tag": "0"
         }
     ],
@@ -1421,12 +1439,6 @@
             "tag": "0"
         }
     ],
-    "fotheringay" :  [
-        {
-            "Shaw": "Fotheringay",
-            "tag": "0"
-        }
-    ],
     "gomshott" :  [
         {
             "Shaw": "Gomshott",
@@ -1466,12 +1478,6 @@
     "shoppy" :  [
         {
             "Shaw": "shoppy",
-            "tag": "0"
-        }
-    ],
-    "frangible" :  [
-        {
-            "Shaw": "frangible",
             "tag": "0"
         }
     ],
@@ -1544,18 +1550,6 @@
     "ein" :  [
         {
             "Shaw": "EIN",
-            "tag": "0"
-        }
-    ],
-    "felloes" :  [
-        {
-            "Shaw": "Felloes",
-            "tag": "0"
-        }
-    ],
-    "flinder" :  [
-        {
-            "Shaw": "Flinder",
             "tag": "0"
         }
     ],
