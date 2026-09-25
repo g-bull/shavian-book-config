@@ -317,9 +317,9 @@
             "tag": "0"
         }
     ],
-    "daedal XXX" :  [
+    "daedal" :  [
         {
-            "Shaw": "daedal",
+            "Shaw": "𐑛𐑦𐑛𐑩𐑤",
             "tag": "0"
         }
     ],
@@ -739,7 +739,7 @@
     ],
     "lemme" :  [
         {
-            "Shaw": "Lemme",
+            "Shaw": "𐑤𐑧𐑥𐑦",
             "tag": "0"
         }
     ],
@@ -835,7 +835,7 @@
     ],
     "montclair" :  [
         {
-            "Shaw": "Montclair",
+            "Shaw": "𐑥𐑪𐑯𐑑𐑒𐑤𐑺",
             "tag": "0"
         }
     ],
@@ -925,7 +925,7 @@
     ],
     "pantoum" :  [
         {
-            "Shaw": "PANTOUM",
+            "Shaw": "𐑐𐑨𐑯𐑑𐑵𐑥",
             "tag": "0"
         }
     ],
@@ -943,7 +943,7 @@
     ],
     "persistency" :  [
         {
-            "Shaw": "persistency",
+            "Shaw": "𐑐𐑼𐑕𐑦𐑕𐑑𐑩𐑯𐑕𐑦",
             "tag": "0"
         }
     ],
@@ -1087,13 +1087,13 @@
     ],
     "scrapper" :  [
         {
-            "Shaw": "scrapper",
+            "Shaw": "𐑕𐑒𐑮𐑨𐑐𐑼",
             "tag": "0"
         }
     ],
     "scuse" :  [
         {
-            "Shaw": "Scuse",
+            "Shaw": "𐑕𐑒𐑿𐑕",
             "tag": "0"
         }
     ],
@@ -1105,7 +1105,7 @@
     ],
     "shoppy" :  [
         {
-            "Shaw": "shoppy",
+            "Shaw": "𐑖𐑪𐑐𐑦",
             "tag": "0"
         }
     ],
@@ -1153,13 +1153,13 @@
     ],
     "somewhen" :  [
         {
-            "Shaw": "Somewhen",
+            "Shaw": "𐑕𐑳𐑥𐑢𐑧𐑯",
             "tag": "0"
         }
     ],
     "spiles" :  [
         {
-            "Shaw": "spiles",
+            "Shaw": "𐑕𐑐𐑲𐑤𐑟",
             "tag": "0"
         }
     ],
@@ -1183,7 +1183,7 @@
     ],
     "tannhauser" :  [
         {
-            "Shaw": "Tannhauser",
+            "Shaw": "𐑑𐑨𐑯𐑣𐑶𐑟𐑼",
             "tag": "0"
         }
     ],
@@ -1195,7 +1195,7 @@
     ],
     "tastin" :  [
         {
-            "Shaw": "Tastin",
+            "Shaw": "𐑑𐑱𐑕𐑑𐑩𐑯",
             "tag": "0"
         }
     ],
@@ -1279,31 +1279,31 @@
     ],
     "thickset" :  [
         {
-            "Shaw": "thickset",
+            "Shaw": "𐑔𐑦𐑒𐑕𐑧𐑑",
             "tag": "0"
         }
     ],
     "tisn" :  [
         {
-            "Shaw": "Tisn",
+            "Shaw": "𐑑𐑦𐑟𐑩𐑯",
             "tag": "0"
         }
     ],
     "toke" :  [
         {
-            "Shaw": "toke",
+            "Shaw": "𐑑𐑴𐑒",
             "tag": "0"
         }
     ],
     "torres" :  [
         {
-            "Shaw": "Torres",
+            "Shaw": "𐑑𐑪𐑮𐑦𐑟",
             "tag": "0"
         }
     ],
     "tristan" :  [
         {
-            "Shaw": "Tristan",
+            "Shaw": "𐑑𐑮𐑦𐑕𐑑𐑩𐑯",
             "tag": "0"
         }
     ],
@@ -1387,7 +1387,7 @@
     ],
     "upsy" :  [
         {
-            "Shaw": "upsy",
+            "Shaw": "𐑳𐑐𐑟𐑦",
             "tag": "0"
         }
     ],
@@ -1405,7 +1405,7 @@
     ],
     "vedras" :  [
         {
-            "Shaw": "Vedras",
+            "Shaw": "𐑝𐑱𐑛𐑮𐑩𐑟",
             "tag": "0"
         }
     ],
@@ -1423,7 +1423,7 @@
     ],
     "viscerally" :  [
         {
-            "Shaw": "viscerally",
+            "Shaw": "𐑝𐑦𐑕𐑼𐑩𐑤𐑦",
             "tag": "0"
         }
     ],
@@ -1513,7 +1513,7 @@
     ],
     "whad" :  [
         {
-            "Shaw": "Whad",
+            "Shaw": "𐑢𐑪𐑛",
             "tag": "0"
         }
     ],
@@ -1525,7 +1525,7 @@
     ],
     "whitey" :  [
         {
-            "Shaw": "Whitey",
+            "Shaw": "𐑢𐑲𐑑𐑦",
             "tag": "0"
         }
     ],
