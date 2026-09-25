@@ -863,9 +863,39 @@
             "tag": "0"
         }
     ],
+    "neronic" :  [
+        {
+            "Shaw": "𐑯𐑦𐑮𐑪𐑯𐑦𐑒",
+            "tag": "0"
+        }
+    ],
     "nj" :  [
         {
             "Shaw": "𐑧𐑯𐑡𐑱",
+            "tag": "0"
+        }
+    ],
+    "nowhither" :  [
+        {
+            "Shaw": "𐑯𐑴𐑢𐑦𐑞𐑼",
+            "tag": "0"
+        }
+    ],
+    "ogilvy" :  [
+        {
+            "Shaw": "𐑴𐑜𐑩𐑤𐑝𐑦",
+            "tag": "0"
+        }
+    ],
+    "oleographs" :  [
+        {
+            "Shaw": " 𐑴𐑤𐑦𐑩𐑜𐑮𐑨𐑓𐑕",
+            "tag": "0"
+        }
+    ],
+    "ouldin" :  [
+        {
+            "Shaw": "𐑴𐑤𐑛𐑩𐑯",
             "tag": "0"
         }
     ],
@@ -1157,12 +1187,6 @@
             "tag": "0"
         }
     ],
-    "ogilvy" :  [
-        {
-            "Shaw": "𐑴𐑜𐑩𐑤𐑝𐑦",
-            "tag": "0"
-        }
-    ],
     "pollux" :  [
         {
             "Shaw": "𐑐𐑪𐑤𐑳𐑒𐑕",
@@ -1184,12 +1208,6 @@
     "refractive" :  [
         {
             "Shaw": "𐑮𐑦𐑓𐑮𐑨𐑒𐑑𐑦𐑝",
-            "tag": "0"
-        }
-    ],
-    "nowhither" :  [
-        {
-            "Shaw": "𐑯𐑴𐑢𐑦𐑞𐑼",
             "tag": "0"
         }
     ],
@@ -1403,12 +1421,6 @@
             "tag": "0"
         }
     ],
-    "oleographs" :  [
-        {
-            "Shaw": " 𐑴𐑤𐑦𐑩𐑜𐑮𐑨𐑓𐑕",
-            "tag": "0"
-        }
-    ],
     "suzannah" :  [
         {
             "Shaw": "𐑕𐑵𐑟𐑨𐑯𐑩",
@@ -1511,12 +1523,6 @@
             "tag": "0"
         }
     ],
-    "ouldin" :  [
-        {
-            "Shaw": "Ouldin",
-            "tag": "0"
-        }
-    ],
     "tisn" :  [
         {
             "Shaw": "Tisn",
@@ -1550,12 +1556,6 @@
     "tristan" :  [
         {
             "Shaw": "Tristan",
-            "tag": "0"
-        }
-    ],
-    "neronic" :  [
-        {
-            "Shaw": "Neronic",
             "tag": "0"
         }
     ],
