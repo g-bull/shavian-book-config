@@ -877,97 +877,55 @@
     ],
     "vauxhall": [
         {
-            "Shaw": "vauxhall",
-            "tag": "0"
-        }
-    ],
-    "verhohnen": [
-        {
-            "Shaw": "verhohnen",
-            "tag": "0"
-        }
-    ],
-    "verstehen": [
-        {
-            "Shaw": "verstehen",
+            "Shaw": "𐑝𐑪𐑒𐑕𐑴𐑤",
             "tag": "0"
         }
     ],
     "vigor": [
         {
-            "Shaw": "vigor",
+            "Shaw": "𐑝𐑦𐑜𐑼",
             "tag": "0"
         }
     ],
     "villard": [
         {
-            "Shaw": "villard",
+            "Shaw": "𐑝𐑦𐑸",
             "tag": "0"
         }
     ],
     "welted": [
         {
-            "Shaw": "welted",
+            "Shaw": "𐑢𐑧𐑤𐑑𐑛",
             "tag": "0"
         }
     ],
     "wharfingers": [
         {
-            "Shaw": "wharfingers",
+            "Shaw": "𐑢𐑹𐑓𐑦𐑯𐑡𐑼𐑟",
             "tag": "0"
         }
     ],
     "winder": [
         {
-            "Shaw": "winder",
+            "Shaw": "𐑢𐑲𐑯𐑛𐑼",
             "tag": "0"
         }
     ],
     "windup": [
         {
-            "Shaw": "windup",
+            "Shaw": "𐑢𐑲𐑯𐑛𐑳𐑐",
             "tag": "0"
         }
     ],
     "winwood": [
         {
-            "Shaw": "winwood",
-            "tag": "0"
-        }
-    ],
-    "wir": [
-        {
-            "Shaw": "wir",
+            "Shaw": "𐑢𐑦𐑯𐑢𐑫𐑛",
             "tag": "0"
         }
     ],
     "woolwich": [
         {
-            "Shaw": "woolwich",
-            "tag": "0"
-        }
-    ],
-    "wurdigen": [
-        {
-            "Shaw": "wurdigen",
-            "tag": "0"
-        }
-    ],
-    "xi": [
-        {
-            "Shaw": "XI",
-            "tag": "0"
-        }
-    ],
-    "xii": [
-        {
-            "Shaw": "XII",
-            "tag": "0"
-        }
-    ],
-    "zum": [
-        {
-            "Shaw": "zum",
+            "Shaw": "𐑢𐑫𐑤𐑦𐑡",
             "tag": "0"
         }
     ],
@@ -1016,6 +974,30 @@
     "ix": [
         {
             "Shaw": "IX",
+            "tag": "0"
+        }
+    ],
+    "xi": [
+        {
+            "Shaw": "XI",
+            "tag": "0"
+        }
+    ],
+    "x": [
+        {
+            "Shaw": "X",
+            "tag": "0"
+        }
+    ],
+    "xi": [
+        {
+            "Shaw": "XI",
+            "tag": "0"
+        }
+    ],
+    "xii": [
+        {
+            "Shaw": "XII",
             "tag": "0"
         }
     ]
