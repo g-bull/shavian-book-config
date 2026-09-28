@@ -1,14 +1,14 @@
 
 [book]
 
-input_filename  = "../epub/arthur-conan-doyle_the-sign-of-the-four-mod.epub"
-output_dir = "../out"
+input_filename  = "epub/arthur-conan-doyle_the-sign-of-the-four-mod.epub"
+output_dir = "shavian"
 
 
-words_filename = "../book-config/arthur-conan-doyle_the-sign-of-the-four/words.json"
+words_filename = "words.json"
 
-#phrases_filename = "../book-config/arthur-conan-doyle_the-sign-of-the-four/phrases.txt"
+#phrases_filename = "phrases.txt"
 
 #generate_words_file = true
 
-cover  = "../book-config/arthur-conan-doyle_the-sign-of-the-four/images/cover.jpg"
+cover  = "images/cover.jpg"
