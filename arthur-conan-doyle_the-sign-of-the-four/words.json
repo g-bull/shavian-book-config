@@ -1,91 +1,85 @@
 {
     "abelwhite": [
         {
-            "Shaw": "abelwhite",
+            "Shaw": "𐑱𐑚𐑩𐑤𐑢𐑲𐑑",
             "tag": "0"
         }
     ],
     "aboveboard": [
         {
-            "Shaw": "aboveboard",
+            "Shaw": "𐑩𐑚𐑳𐑝𐑚𐑹𐑛",
             "tag": "0"
         }
     ],
     "achillis": [
         {
-            "Shaw": "achillis",
+            "Shaw": "𐑩𐑒𐑦𐑤𐑰𐑟",
             "tag": "0"
         }
     ],
     "achmet": [
         {
-            "Shaw": "achmet",
+            "Shaw": "𐑭𐑗𐑥𐑧𐑑",
             "tag": "0"
         }
     ],
     "akbar": [
         {
-            "Shaw": "akbar",
+            "Shaw": "𐑨𐑒𐑚𐑸",
             "tag": "0"
         }
     ],
     "alehouse": [
         {
-            "Shaw": "alehouse",
+            "Shaw": "𐑱𐑤𐑣𐑬𐑕",
             "tag": "0"
         }
     ],
     "andaman": [
         {
-            "Shaw": "andaman",
+            "Shaw": "𐑨𐑯𐑛𐑩𐑥𐑩𐑯",
             "tag": "0"
         }
     ],
     "andamans": [
         {
-            "Shaw": "andamans",
+            "Shaw": "𐑨𐑯𐑛𐑩𐑥𐑩𐑯𐑟",
             "tag": "0"
         }
     ],
     "athelney": [
         {
-            "Shaw": "athelney",
-            "tag": "0"
-        }
-    ],
-    "aus": [
-        {
-            "Shaw": "aus",
+            "Shaw": "𐑨𐑔𐑩𐑤𐑯𐑦",
             "tag": "0"
         }
     ],
     "bandana": [
         {
-            "Shaw": "bandana",
+            "Shaw": "𐑚𐑨𐑯𐑛𐑨𐑯𐑩",
             "tag": "0"
         }
     ],
     "beaune": [
         {
-            "Shaw": "beaune",
+            "Shaw": "𐑚𐑴𐑯",
             "tag": "0"
         }
     ],
     "bediamonded": [
         {
-            "Shaw": "bediamonded",
+            "Shaw": "𐑚𐑦𐑛𐑲𐑩𐑥𐑩𐑯𐑛𐑩𐑛",
             "tag": "0"
         }
     ],
     "befooled": [
         {
-            "Shaw": "befooled",
+            "Shaw": "𐑚𐑦𐑓𐑵𐑤𐑛",
             "tag": "0"
         }
     ],
     "befrogged": [
         {
-            "Shaw": "befrogged",
+            "Shaw": "𐑚𐑦𐑓𐑮𐑪𐑜𐑛",
             "tag": "0"
         }
     ],
@@ -455,33 +449,9 @@
             "tag": "0"
         }
     ],
-    "ii": [
-        {
-            "Shaw": "ii",
-            "tag": "0"
-        }
-    ],
-    "iii": [
-        {
-            "Shaw": "iii",
-            "tag": "0"
-        }
-    ],
     "intaking": [
         {
             "Shaw": "intaking",
-            "tag": "0"
-        }
-    ],
-    "iv": [
-        {
-            "Shaw": "iv",
-            "tag": "0"
-        }
-    ],
-    "ix": [
-        {
-            "Shaw": "ix",
             "tag": "0"
         }
     ],
@@ -1037,27 +1007,9 @@
             "tag": "0"
         }
     ],
-    "vi": [
-        {
-            "Shaw": "vi",
-            "tag": "0"
-        }
-    ],
     "vigor": [
         {
             "Shaw": "vigor",
-            "tag": "0"
-        }
-    ],
-    "vii": [
-        {
-            "Shaw": "vii",
-            "tag": "0"
-        }
-    ],
-    "viii": [
-        {
-            "Shaw": "viii",
             "tag": "0"
         }
     ],
@@ -1117,19 +1069,67 @@
     ],
     "xi": [
         {
-            "Shaw": "xi",
+            "Shaw": "XI",
             "tag": "0"
         }
     ],
     "xii": [
         {
-            "Shaw": "xii",
+            "Shaw": "XII",
             "tag": "0"
         }
     ],
     "zum": [
         {
             "Shaw": "zum",
+            "tag": "0"
+        }
+    ],
+    "ii": [
+        {
+            "Shaw": "II",
+            "tag": "0"
+        }
+    ],
+    "iii": [
+        {
+            "Shaw": "III",
+            "tag": "0"
+        }
+    ],
+    "iv": [
+        {
+            "Shaw": "IV",
+            "tag": "0"
+        }
+    ],
+    "v": [
+        {
+            "Shaw": "V",
+            "tag": "0"
+        }
+    ],
+    "vi": [
+        {
+            "Shaw": "VI",
+            "tag": "0"
+        }
+    ],
+    "vii": [
+        {
+            "Shaw": "VII",
+            "tag": "0"
+        }
+    ],
+    "viii": [
+        {
+            "Shaw": "VIII",
+            "tag": "0"
+        }
+    ],
+    "ix": [
+        {
+            "Shaw": "IX",
             "tag": "0"
         }
     ]
