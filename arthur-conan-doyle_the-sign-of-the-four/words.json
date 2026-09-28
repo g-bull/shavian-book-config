@@ -205,7 +205,7 @@
     ],
     "clackin": [
         {
-            "Shaw": "𐑒𐑤𐑨𐑒𐑦𐑯",
+            "Shaw": "𐑒𐑤𐑨𐑒𐑩𐑯",
             "tag": "0"
         }
     ],
@@ -445,7 +445,7 @@
     ],
     "knockin": [
         {
-            "Shaw": "𐑯𐑪𐑒𐑦𐑯",
+            "Shaw": "𐑯𐑪𐑒𐑩𐑯",
             "tag": "0"
         }
     ],
@@ -479,81 +479,63 @@
             "tag": "0"
         }
     ],
-    "mann": [
-        {
-            "Shaw": "mann",
-            "tag": "0"
-        }
-    ],
     "markup": [
         {
-            "Shaw": "markup",
+            "Shaw": "𐑥𐑸𐑒𐑳𐑐",
             "tag": "0"
         }
     ],
     "martialled": [
         {
-            "Shaw": "martialled",
+            "Shaw": "𐑥𐑸𐑖𐑩𐑤𐑛",
             "tag": "0"
         }
     ],
     "mcmurdo": [
         {
-            "Shaw": "mcmurdo",
-            "tag": "0"
-        }
-    ],
-    "mensch": [
-        {
-            "Shaw": "mensch",
-            "tag": "0"
-        }
-    ],
-    "menschen": [
-        {
-            "Shaw": "menschen",
+            "Shaw": "𐑥𐑩𐑒𐑥𐑻𐑛𐑴",
             "tag": "0"
         }
     ],
     "millbank": [
         {
-            "Shaw": "millbank",
+            "Shaw": "𐑥𐑦𐑤𐑚𐑨𐑙𐑒",
             "tag": "0"
         }
     ],
     "mitral": [
         {
-            "Shaw": "mitral",
+            "Shaw": "𐑥𐑲𐑑𐑮𐑩𐑤",
             "tag": "0"
         }
     ],
     "moidores": [
         {
-            "Shaw": "moidores",
+            "Shaw": "𐑥𐑲𐑛𐑹𐑟",
             "tag": "0"
         }
     ],
     "momento": [
         {
-            "Shaw": "momento",
+            "Shaw": "𐑥𐑦𐑥𐑧𐑯𐑑𐑴 ",
             "tag": "0"
         }
     ],
     "mordecai": [
         {
-            "Shaw": "mordecai",
+            "Shaw": "𐑥𐑹𐑛𐑩𐑒𐑱",
             "tag": "0"
         }
     ],
     "mornin": [
         {
-            "Shaw": "mornin",
+            "Shaw": "𐑥𐑹𐑯𐑩n",
             "tag": "0"
         }
     ],
     "morstan": [
         {
-            "Shaw": "morstan",
+            "Shaw": "𐑥𐑹𐑕𐑑𐑩𐑯",
             "tag": "0"
         }
     ],
@@ -565,61 +547,37 @@
     ],
     "muttra": [
         {
-            "Shaw": "muttra",
+            "Shaw": "𐑥𐑳𐑑𐑮𐑩",
             "tag": "0"
         }
     ],
     "nana": [
         {
-            "Shaw": "nana",
-            "tag": "0"
-        }
-    ],
-    "natur": [
-        {
-            "Shaw": "natur",
-            "tag": "0"
-        }
-    ],
-    "nicht": [
-        {
-            "Shaw": "nicht",
+            "Shaw": "𐑯𐑨𐑯𐑩",
             "tag": "0"
         }
     ],
     "norwood": [
         {
-            "Shaw": "norwood",
-            "tag": "0"
-        }
-    ],
-    "norword": [
-        {
-            "Shaw": "norword",
+            "Shaw": "𐑯𐑹𐑢𐑫𐑛",
             "tag": "0"
         }
     ],
     "nullah": [
         {
-            "Shaw": "nullah",
-            "tag": "0"
-        }
-    ],
-    "nur": [
-        {
-            "Shaw": "nur",
+            "Shaw": "𐑯𐑳𐑤𐑩",
             "tag": "0"
         }
     ],
     "odor": [
         {
-            "Shaw": "odor",
+            "Shaw": "𐑴𐑛𐑼",
             "tag": "0"
         }
     ],
     "onyxes": [
         {
-            "Shaw": "onyxes",
+            "Shaw": "𐑪𐑯𐑦𐑒𐑕𐑩𐑟",
             "tag": "0"
         }
     ],
