@@ -283,25 +283,19 @@
     ],
     "ead": [
         {
-            "Shaw": "ead",
-            "tag": "0"
-        }
-    ],
-    "einen": [
-        {
-            "Shaw": "einen",
+            "Shaw": "𐑧𐑛",
             "tag": "0"
         }
     ],
     "emile": [
         {
-            "Shaw": "emile",
+            "Shaw": "𐑱𐑥𐑰𐑤",
             "tag": "0"
         }
     ],
     "ereading": [
         {
-            "Shaw": "ereading",
+            "Shaw": "𐑰𐑮𐑰𐑛𐑦𐑙",
             "tag": "0"
         }
     ],
@@ -313,7 +307,7 @@
     ],
     "esmeralda": [
         {
-            "Shaw": "esmeralda",
+            "Shaw": "𐑧𐑟𐑥𐑩𐑮𐑨𐑤𐑛𐑩",
             "tag": "0"
         }
     ],
@@ -343,7 +337,7 @@
     ],
     "frontmatter": [
         {
-            "Shaw": "frontmatter",
+            "Shaw": "𐑓𐑮𐑳𐑯𐑑𐑥𐑨𐑑𐑼",
             "tag": "0"
         }
     ],
