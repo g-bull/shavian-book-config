@@ -11,4 +11,40 @@ words_filename = "words.json"
 
 #generate_words_file = true
 
-cover  = "images/cover.jpg"
+# All files under this directory will be copied into the epub
+# Any existing images with the same name in the epub will be overwritten 
+copy_data = "data"
+
+#cover  = "images/cover.jpg"
+
+# List of items to omit
+remove_items = [ "colophon.xhtml", "imprint.xhtml", "uncopyright.xhtml", "logo.png", "logo-2x-2x.png"]
+
+# Set <dc:date>
+dc_date = "2026-10-03T04:06:30Z"
+
+# replace the dc:title element in the metadata,
+dc_title = "𐑞 𐑕𐑲𐑯 𐑝 𐑞 𐑓𐑹"
+
+# Replaces <dc:identifier> content, or added if it doesn't already existing
+dc_identifier = "https://github.com/g-bull/shavian/arthur-conan-doyle_the-sign-of-the-four"
+
+
+dc_sources = [ "https://standardebooks.org/ebooks/arthur-conan-doyle/the-sign-of-the-four" ]
+
+#contributors = [ {"transliterator" : ["Geoff Bull", [ "trc", "art", "cov", "tyg", "bkp", "mrk", "pfr"]]}]
+#<dc:contributor id="transliterator">Geoff Bull</dc:contributor>
+#<meta property="role" refines="#transliterator" scheme="marc:relators">trc</meta>
+#<meta property="role" refines="#transliterator" scheme="marc:relators">art</meta>
+#<meta property="role" refines="#transliterator" scheme="marc:relators">tyg</meta>
+#<meta property="role" refines="#transliterator" scheme="marc:relators">bkp</meta>
+#<meta property="role" refines="#transliterator" scheme="marc:relators">cov</meta>
+#<meta property="role" refines="#transliterator" scheme="marc:relators">mrk</meta>
+#<meta property="role" refines="#transliterator" scheme="marc:relators">pfr</meta>
+
+
+
+
+# make these default
+xml_lang = "en-Shaw"
+dclanguage = "en-Shaw"
