@@ -15,10 +15,9 @@ words_filename = "words.json"
 # Any existing images with the same name in the epub will be overwritten 
 copy_data = "data"
 
-#cover  = "images/cover.jpg"
-
 # List of items to omit
 remove_items = [ "colophon.xhtml", "imprint.xhtml", "uncopyright.xhtml", "logo.png", "logo-2x-2x.png"]
+#no_transliteration = [ "colophon.xhtml", "imprint.xhtml", "uncopyright.xhtml"]
 
 # Set <dc:date>
 dc_date = "2026-10-03T04:06:30Z"
@@ -28,9 +27,6 @@ dc_title = "𐑞 𐑕𐑲𐑯 𐑝 𐑞 𐑓𐑹"
 
 # Replaces <dc:identifier> content, or added if it doesn't already existing
 dc_identifier = "https://github.com/g-bull/shavian/arthur-conan-doyle_the-sign-of-the-four"
-
-
-dc_sources = [ "https://standardebooks.org/ebooks/arthur-conan-doyle/the-sign-of-the-four" ]
 
 #contributors = [ {"transliterator" : ["Geoff Bull", [ "trc", "art", "cov", "tyg", "bkp", "mrk", "pfr"]]}]
 #<dc:contributor id="transliterator">Geoff Bull</dc:contributor>
