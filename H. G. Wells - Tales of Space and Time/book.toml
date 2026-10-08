@@ -6,6 +6,7 @@ output_dir = "shavian"
 words_filename = "words.json"
 phrases_filename = "phrases.txt"
 
+# Mark item with this id as the cover image.
 cover = "images..cover.jpg"
 
 # All files under this directory will be copied into the epub
