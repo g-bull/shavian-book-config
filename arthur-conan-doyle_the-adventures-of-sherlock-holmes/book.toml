@@ -5,9 +5,9 @@ input_filename  = "epub/arthur-conan-doyle_the-adventures-of-sherlock-holmes.epu
 output_dir = "shavian"
 
 
-#words_filename = "words.json"
+words_filename = "words.json"
 
-#phrases_filename = "phrases.txt"
+phrases_filename = "phrases.txt"
 
 #generate_words_file = true
 
