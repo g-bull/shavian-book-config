@@ -1,0 +1,46 @@
+
+[book]
+
+input_filename  = "epub/arthur-conan-doyle_the-adventures-of-sherlock-holmes.epub"
+output_dir = "shavian"
+
+
+#words_filename = "words.json"
+
+#phrases_filename = "phrases.txt"
+
+#generate_words_file = true
+
+# All files under this directory will be copied into the epub
+# Any existing images with the same name in the epub will be overwritten 
+copy_data = "data"
+
+# List of items to omit
+remove_items = [ "colophon.xhtml", "imprint.xhtml", "uncopyright.xhtml", "logo.png", "logo-2x-2x.png"]
+#no_transliteration = [ "colophon.xhtml", "imprint.xhtml", "uncopyright.xhtml"]
+
+# Set <dc:date>
+dc_date = "2026-10-07T13:05:46Z"
+
+# replace the dc:title element in the metadata,
+#dc_title = "𐑞 𐑕𐑲𐑯 𐑝 𐑞 𐑓𐑹"
+
+# Replaces <dc:identifier> content, or added if it doesn't already existing
+dc_identifier = "https://github.com/g-bull/shavian/-conan-doyle_the-adventures-of-sherlock-holmes"
+
+#contributors = [ {"transliterator" : ["Geoff Bull", [ "trc", "art", "cov", "tyg", "bkp", "mrk", "pfr"]]}]
+#<dc:contributor id="transliterator">Geoff Bull</dc:contributor>
+#<meta property="role" refines="#transliterator" scheme="marc:relators">trc</meta>
+#<meta property="role" refines="#transliterator" scheme="marc:relators">art</meta>
+#<meta property="role" refines="#transliterator" scheme="marc:relators">tyg</meta>
+#<meta property="role" refines="#transliterator" scheme="marc:relators">bkp</meta>
+#<meta property="role" refines="#transliterator" scheme="marc:relators">cov</meta>
+#<meta property="role" refines="#transliterator" scheme="marc:relators">mrk</meta>
+#<meta property="role" refines="#transliterator" scheme="marc:relators">pfr</meta>
+
+
+
+
+# make these default
+xml_lang = "en-Shaw"
+dclanguage = "en-Shaw"
